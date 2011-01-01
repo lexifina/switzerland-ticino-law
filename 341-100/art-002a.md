@@ -1,0 +1,5 @@
+# Art. 2a
+1Il Consiglio di vigilanza è composto del direttore del Dipartimento delle istituzioni, che ne è il presidente, del presidente del Tribunale penale cantonale, del presidente della Corte di appello e di revisione penale, del procuratore generale, del presidente dell'Ufficio del giudice dei provvedimenti coercitivi e di un membro, da essa designato, della Commissione parlamentare di sorveglianza delle condizioni di detenzione.
+2 In caso di assenza, i magistrati e il membro della Commissione di cui al capoverso 1 hanno facoltà di designare un sostituto in rappresentanza del loro organismo.
+3 Il Consiglio di vigilanza siede di regola quattro volte all'anno ed esercita la sorveglianza generale sulle strutture carcerarie e sull'organizzazione interna degli stabilimenti.
+4 Alle sedute del Consiglio di vigilanza partecipano con voto consultivo il direttore della Divisione della giustizia, il direttore delle Strutture carcerarie e il responsabile dell'Ufficio dell'assistenza riabilitativa.
