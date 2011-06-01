@@ -1,0 +1,3 @@
+# Art. 13a Disposizioni transitorie riferite alla modifica del …
+1Il diritto all'estensione del limite temporale introdotto dall'art. 10 cpv. 2 si applica a coloro i quali hanno percepito la 60ma mensilità dopo il 1° dicembre 2010 compreso.
+2 I beneficiari di anticipo alimenti giunti al termine del diritto dei 60 mesi di prestazioni tra il 1° dicembre 2010 e l'entrata in vigore della presente modifica e che soddisfano il requisito dell'art. 10 cpv. 2, saranno informati, in questo lasso di tempo, dall'Ufficio del sostegno sociale e dell'inserimento. Essi, entro un mese dall'entrata in vigore della modifica potranno inoltrare domanda di estensione.
