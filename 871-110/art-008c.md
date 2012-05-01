@@ -1,0 +1,2 @@
+# Art. 8c b) Prestazioni di inserimento professionale
+Quali prestazioni di inserimento professionale (art. 31b Las) sono in particolare presi in considerazione i provvedimenti del mercato del lavoro ai sensi della legge federale sull'assicurazione obbligatoria contro la disoccupazione e l'indennità per insolvenza del 25 giugno 1982, esclusi i periodi di pratica professionale e i provvedimenti speciali secondo tale legislazione.

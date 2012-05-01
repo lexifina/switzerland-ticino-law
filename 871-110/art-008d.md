@@ -1,0 +1,2 @@
+# Art. 8d c) Obblighi dell’assistito e prescrizioni di controllo
+L'assistito potrà beneficiare di una misura di inserimento professionale fissata dalla Sezione del lavoro, solamente se è iscritto presso un URC, è idoneo al collocamento e rispetta le prescrizioni di controllo, segnatamente partecipa ai colloqui di controllo e di consulenza ed intraprende tutto quanto si possa ragionevolmente pretendere per abbreviare la disoccupazione.
