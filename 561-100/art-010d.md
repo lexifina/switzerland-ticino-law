@@ -1,0 +1,3 @@
+# Art. 10d Misure contro la violenza in altre manifestazioni
+1L'ufficiale della polizia cantonale è competente a adottare le misure indicate nell'articolo 10b capoverso 1, qualora sia necessario per prevenire atti violenti o danni alle persone o alle cose in altre manifestazioni; per l'adozione di queste misure sono applicabili per analogia i criteri in materia di violenza in occasione di manifestazioni sportive.
+2 L'articolo 10b capoversi 2 e 4 e l'articolo 10c sono applicabili per analogia; l'area vietata è stabilita dall'ufficiale della polizia cantonale nella decisione sul divieto di accesso all'area.

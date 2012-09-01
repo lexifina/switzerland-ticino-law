@@ -1,0 +1,11 @@
+# Art. 9c a supporto operativo
+1La polizia può effettuare registrazioni audio e video, mediante apparecchi tecnici fissi e mobili che permettono l'identificazione di persone, allo scopo di garantire, nel rispetto dei diritti fondamentali, la sicurezza e il mantenimento dell'ordine pubblico, di prevenire e reprimere atti illeciti e di preservare l'integrità di persone o beni nei seguenti ambiti:
+a) manifestazioni di massa, segnatamente sportive o di piazza, se esiste un rischio oggettivo che possano essere commessi atti violenti contro persone o cose;
+b) durante interventi di polizia, quando esiste un rischio oggettivo per l'incolumità delle persone e degli agenti di polizia coinvolti.
+2 L'impiego degli apparecchi tecnici di ripresa deve essere idoneo e proporzionato allo scopo, oltre che riconoscibile mediante misure adeguate.
+3 I dati registrati possono essere elaborati solo per le finalità indicate al capoverso 1 e per scopi formativi.
+4 Se non sono estratte, le registrazioni devono essere cancellate automaticamente entro 7 giorni. Se sono estratte, esse devono essere distrutte entro 100 giorni, riservata la loro trasmissione secondo i cpv. 5 e 6 e l'eventuale loro utilizzazione per la formazione.
+5 Le registrazioni possono essere trasmesse, spontaneamente o su richiesta motivata, solo alle autorità competenti nell'ambito di procedure penali, civili, amministrative e disciplinari e negli altri casi fissati nella Legge sulla protezione dei dati personali elaborati dalla polizia cantonale e dalle polizie comunali del 13 dicembre 1999.
+6 Queste autorità possono elaborare le registrazioni solo nella misura in cui risultano idonee e necessarie quali mezzi di prova secondo la procedura applicabile; le registrazioni sono distrutte al più tardi con la scadenza del termine di prescrizione o con la crescita in giudicato della decisione.
+7 Il Consiglio di Stato disciplina i particolari, segnatamente le condizioni e le modalità di conservazione, utilizzazione e distruzione dei dati, come pure le misure tecniche e organizzative per garantire la protezione e la sicurezza dei dati.
+8 Per il resto sono applicabili la legge sulla protezione dei dati personali del 9 marzo 1987 e la legge sulla protezione dei dati personali elaborati dalla polizia cantonale e dalle polizie comunali del 13 dicembre 1999.
