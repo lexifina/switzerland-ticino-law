@@ -1,0 +1,5 @@
+# Art. 43b Attuazione
+1Di principio i percorsi ciclabili sono attuati sulle strade già esistenti e ritenute idonee. Qualora queste strade appartengano a terzi, l'ente pubblico competente è tenuto a raccogliere preventivamente l'accordo dei proprietari e, nella misura in cui le stesse non fossero aperte al pubblico, acquisire i diritti d'uso necessari.
+2 L'attuazione dei percorsi ciclabili ha luogo tramite la posa della segnaletica definita dal diritto federale oppure dalle norme tecniche emanate da associazioni professionali e dichiarate vincolanti dal Consiglio di Stato. La posa della segnaletica di direzione è in ogni caso approvata dal Consiglio di Stato. ai necessari cambiamenti di funzione secondo la procedura stabilita da questa legge.
+4 I percorsi ciclabili inseriti nel Piano cantonale dei trasporti sono attuati dal Cantone. L'autorità cantonale può, previo accordo, delegare questo compito ai comuni oppure ad altri enti di diritto pubblico o privato. Per il finanziamento di questi percorsi fanno stato gli art. 12, 13, 14 e 15.
+5 I comuni attuano a loro spese i percorsi locali.
