@@ -1,0 +1,2 @@
+# Art. 66v C. Prestazione senza indicazione medica
+In caso di cura ospedaliera senza indicazione medica in un ospedale non figurante nell'elenco del Cantone, ma in quello di ubicazione dell'ospedale, il Cantone e l'assicuratore remunerano la loro quotaparte rispettiva giusta l'art. 49a LAMal al massimo secondo la tariffa più bassa applicata per la cura in questione in un ospedale figurante nell'elenco.
