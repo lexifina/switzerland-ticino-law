@@ -1,0 +1,4 @@
+# Art. 50e
+1La richiesta per le prestazioni familiari ai salariati in malattia deve essere inoltrata alla Cassa cantonale di compensazione per gli assegni familiari dal salariato cui è stato riconosciuto il diritto agli assegni ai sensi della legislazione sugli assegni familiari.
+2 La richiesta deve essere presentata tramite l'apposito formulario e corredata, in particolare, della decisione, con l'attestazione di crescita in giudicato, di riconoscimento del diritto agli assegni ai sensi della legislazione sugli assegni familiari e della conferma di esaurimento di questo diritto rilasciate dalla competente Cassa di compensazione per gli assegni familiari.
+3 Su domanda, il salariato deve presentare alla Cassa cantonale di compensazione per gli assegni familiari la documentazione per accertare il diritto alle prestazioni familiari ai salariati in malattia.
