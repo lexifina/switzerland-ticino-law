@@ -1,0 +1,5 @@
+# Art. 55b Proporzionalità e modalità particolari
+1L'uso dell'arma da fuoco deve essere proporzionato allo scopo e alle circostanze; esso è autorizzato esclusivamente quale mezzo estremo di difesa o di coercizione, se altri mezzi disponibili non bastano; quando possibile, l'arma da fuoco va usata in modo da non colpire parti vitali.
+2 In tutti i casi di uso dell'arma da fuoco, nel valutare le circostanze, va particolarmente tenuta in considerazione la messa in pericolo di terze persone.
+3 L'impiego dell'arma da fuoco è preceduto dall'avvertimento “alt o sparo”, se lo scopo e le circostanze lo permettono; lo sparo di avvertimento è giustificato di regola soltanto quando appare dalle circostanze che l'avvertimento a voce non è stato o non può essere compreso. In caso di ferimento, l'agente di custodia è obbligato a prestare immediatamente soccorso alla persona ferita.
+4 L'agente di custodia che ha fatto uso dell'arma avverte immediatamente i suoi superiori e fa rapporto scritto alla Direzione sui motivi e le circostanze.
