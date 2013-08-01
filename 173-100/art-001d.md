@@ -6,4 +6,3 @@ b) prima di creare o modificare sistemi per il trattamento di dati che riguardan
 c) per questioni legate alla sicurezza sul lavoro e per i provvedimenti sull'igiene del lavoro;
 d) sulle questioni relative alla formazione del personale.
 3 Le organizzazioni del personale e singoli dipendenti possono prendere posizione e presentare proposte su questioni professionali o concernenti l'Amministrazione cantonale in generale.
-A. Norme generali
