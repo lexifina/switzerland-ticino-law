@@ -1,7 +1,7 @@
 ## TITOLO 1 Disposizioni generali
 ## TITOLO 2 Autorità competenti
 ## TITOLO 3 Ampliamenti cantonali del modello dei dati della Confederazione
-## TITOLO 4 Obbligo di tolleranza e rispetto dei segni della misurazione ufficiale
+## TITOLO 4 Obblighi di assistenza e di tolleranza e menzione nel registro fondiario
 ## TITOLO 5 Demarcazione
 ## TITOLO 6 Deposito pubblico
 ## TITOLO 7 Esecuzione della misurazione ufficiale
@@ -11,7 +11,7 @@
 ## Capitolo 4 Tenuta a giorno delle componenti della misurazione ufficiale
 ## TITOLO 8 Gestione della misurazione ufficiale
 ## TITOLO 9 Accesso e utilizzazione dei dati della misurazione ufficiale
-## TITOLO 10 …
+## TITOLO 10
 ## TITOLO 11 Ripartizione delle spese
 ## Capitolo 1 Esecuzione
 ## Capitolo 2 Tenuta a giorno
