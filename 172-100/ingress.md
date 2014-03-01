@@ -1,5 +1,4 @@
-# 2.4.1.6
-Legge
+# Legge
 concernente le competenze organizzative del Consiglio di Stato
 e dei suoi dipartimenti1
 (del 25 giugno 1928)
