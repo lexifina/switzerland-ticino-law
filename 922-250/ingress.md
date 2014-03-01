@@ -1,5 +1,4 @@
-# 8.5.1.3
-Regolamento
+# Regolamento
 per l’ottenimento del certificato d’abilitazione alla caccia
 (del 13 gennaio 1993)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
@@ -8,4 +7,4 @@ richiamati:
 - l'Ordinanza federale sulla caccia e la protezione dei mammiferi e degli uccelli selvatici del 29 febbraio 1988 (OCP);
 - la Legge cantonale sulla caccia e la protezione dei mammiferi e degli uccelli selvatici dell'11 dicembre 1990 (LCC);
 - il Regolamento cantonale sulla caccia e la protezione dei mammiferi e degli uccelli selvatici dell'11 agosto 1992 (RALCC), in particolare l'art. 24,
-d e c r e t a :
+de c r e t a :
