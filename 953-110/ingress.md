@@ -1,7 +1,7 @@
-# 11.1.4.1.1
-Regolamento
-della legge sull’esercizio delle professioni di fiduciario (RFid)
+# Regolamento
+della legge sull’esercizio delle professioni di fiduciario
+(RFid)
 (del 30 maggio 2012)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 richiamata la legge sull'esercizio delle professioni di fiduciario del 1° dicembre 2009 (LFid);
-decreta:
+d e c re t a :
