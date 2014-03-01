@@ -1,7 +1,7 @@
 # Legge
-di applicazione alla legge federale sulla
+di applicazione della legge federale sulla
 protezione degli animali
 (del 10 febbraio 1987)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 visto il messaggio 21 maggio 1986 n. 3050 del Consiglio di Stato,
-d e c r e t a :
+d ecret a:
