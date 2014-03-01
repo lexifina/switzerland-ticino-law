@@ -2,7 +2,7 @@
 ## Capitolo I Principi generali
 ## Capitolo II Raggruppamento a carattere generale
 ## Capitolo III Ricomposizione particellare
-## Capitolo IV
+## Capitolo IV Raggruppamento volontario
 ## Capitolo V Costituzione e organizzazione del Consorzio
 ## Capitolo VI Manutenzione delle opere consortili - Divieto di frazionamento -
 ## TITOLO II La permuta
