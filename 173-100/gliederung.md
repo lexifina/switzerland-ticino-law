@@ -8,6 +8,7 @@
 ## Capitolo VII Doveri del dipendente
 ## Capitolo VIII Violazione dei doveri di servizio
 ## Capitolo IX Diritti del dipendente
+## Capitolo X Formazione professionale
 ## Capitolo XI Previdenza e assicurazioni
 ## Capitolo XII Cessazione del rapporto d’impiego
 ## Capitolo XIII Contestazioni relative al rapporto d’impiego
