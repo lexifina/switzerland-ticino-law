@@ -1,8 +1,8 @@
-# 11.1.3.1.3
-Regolamento
+# Regolamento
 del Fondo Sport-toto1
 (del 18 gennaio 2011)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
+Richiamati:
 – la Legge federale concernente le lotterie e le scommesse professionalmente organizzate;
 – la Legge cantonale sulle lotterie e giochi d'azzardo del 4 novembre 1931;
 – la Legge concernente le competenze organizzative del Consiglio di Stato e dei suoi dipartimenti del 25 giugno 1928;
