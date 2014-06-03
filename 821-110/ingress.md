@@ -1,7 +1,6 @@
 # 6.1.1.4
 Regolamento
-della Legge cantonale sul registro dei tumori
-del 21 giugno 1994
+della Legge sul Registro dei tumori1
 (del 9 giugno 1998)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 - richiamata la legge sul registro dei tumori del 21 giugno 1994 ed in particolare l'art. 8;
