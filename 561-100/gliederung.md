@@ -3,4 +3,5 @@
 ## TITOLO III Statuto dell’agente di polizia cantonale - formazione permanente
 ## TITOLO IIIA Rimedi di diritto
 ## TITOLO IV Polizie comunali
+## TITOLO IVA Altri statuti del personale di Polizia
 ## TITOLO V Disposizioni finali
