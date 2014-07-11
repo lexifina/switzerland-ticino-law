@@ -1,0 +1,6 @@
+# Art. 6a Condizioni particolari per i «bungalows»
+1La delimitazione della superficie riservata ai «bungalows», come pure la loro disposizione e realizzazione, deve avvenire con particolare riguardo agli aspetti ambientali, naturalistici e paesaggistici (inserimento armonioso), oltre che energetici, di protezione dai pericoli naturali e di sicurezza antincendio. Nel limite del possibile, gli stessi sono da prevedere in prossimità delle altre strutture fisse esistenti.
+2 Ritenuta la quota massima di installazioni fisse stabilita all'articolo 8 della legge sui campeggi del 26 gennaio 2004, il numero di «bungalows» ammessi viene definito caso per caso, tenendo conto delle caratteristiche geografiche, climatiche, paesaggistiche e delle attrattività turistiche del comprensorio, nonché della dimensione, dell'equipaggiamento e delle caratteristiche ambientali del campeggio.
+3 Per la costruzione dei «bungalows», è escluso l'impiego di rivestimenti di aspetto plastico o metallico (laminati). Possono essere ammesse unicamente recinzioni di tipo leggero (tipo staccato) di altezza massima di 1 m.
+4 Per favorire la rotazione dei turisti, i «bungalows» devono essere di proprietà dei campeggi e non possono essere affittati consecutivamente ai medesimi ospiti per più di 3 mesi.
+Domanda (art. 13)
