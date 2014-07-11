@@ -4,4 +4,9 @@ concernente le funivie e le sciovie esonerate dalla
 concessione federale
 (del 14 dicembre 1982)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
-visto l'articolo 11 dell'Ordinanza federale del 22 marzo 1972 sulle funivie esenti dalla concessione federale e le sciovie; visto il concordato intercantonale del 15 ottobre 1951/27 novembre 1972 concernente le funivie e le sciovie esonerate dalla concessione federale, approvato dal Consiglio federale il 17 giugno 1955/30 maggio 1973 ed il relativo regolamento concernente la costruzione e l'esercizio di funivie e sciovie; visto il decreto legislativo del 23 giugno 1955 concernente l'adesione del Cantone Ticino al predetto concordato intercantonale,
+richiamati
+- la legge federale sugli impianti a fune adibiti al trasporto di persone del 23 giugno 2006 (LIFT);
+- l'ordinanza sugli impianti a fune adibiti al trasporto di persone del 21 dicembre 2006 (OIFT);
+- il concordato concernente gli impianti di trasporto a fune e le sciovie esonerati dalla concessione federale del 15 ottobre 1951;
+- il decreto legislativo concernente l'adesione del Cantone Ticino al concordato intercantonale sulle funivie e sciovie esonerate dalla concessione federale del 23 giugno 1955;
+- la legge concernente la designazione delle autorità competenti per l'applicazione del concordato del 15 ottobre 1951 concernente gli impianti di trasporto a fune e le sciovie esonerati dalla concessione federale del 2 dicembre 2008,
