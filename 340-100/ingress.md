@@ -1,5 +1,4 @@
-# 4.2.3.1
-Legge
+# Legge
 sull’esercizio del diritto di grazia
 (del 5 novembre 1945)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
