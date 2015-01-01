@@ -26,6 +26,7 @@
 ## Sezione III Importo effettivo
 ## Sezione IV Elementi specifici di calcolo e procedure di versamento
 ## Sezione V Norme particolari
+## Sezione VI Restituzione da parte degli assicuratori malattie negli anni 2015, 2016 e 2017
 ## Capitolo IV Disposizioni comuni
 ## Sezione I Norme di procedura
 ## Sezione II Riduzione dei premi per anni precedenti quello di competenza
