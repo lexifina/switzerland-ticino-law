@@ -1,5 +1,4 @@
-# 11.1.3.1.2
-Regolamento
+# Regolamento
 del Fondo Swisslos
 (del 7 novembre 2012)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
