@@ -1,8 +1,8 @@
-# 9.2.1.1.1
-Regolamento
+# Regolamento
 generale della legge cantonale di applicazione
-della legge federale sulla protezione dell’ambiente (RLaLPAmb)
+della legge federale sulla protezione dell’ambiente
+(RLaLPAmb)
 (del 17 maggio 2005)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 vista la legge cantonale di applicazione della legge federale sulla protezione dell'ambiente (LaLPAmb) del 24 marzo 2004, in particolare l'art. 4,
-d e c r et a:
+d e c re t a :
