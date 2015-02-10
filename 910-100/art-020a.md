@@ -1,5 +1,6 @@
-# Art. 20a Contributi per la qualità ecologica
-1Al fine di conservare e favorire la varietà naturale delle specie, il Cantone, con la Confederazione, promuove, mediante aiuti finanziari, superfici di compensazione ecologica di qualità biologica superiore e l'interconnessione di superfici di compensazione ecologica sulla superficie agricola utile.
-2 Ottengono i contributi i gestori che hanno diritto ai pagamenti diretti conformemente all'ordinanza del 7 dicembre 1998 sui pagamenti diretti, per la gestione di fondi situati in Ticino.
-3 Sono versati contributi per le superfici di compensazione ecologica che rispondono alle esigenze federali e cantonali in materia di qualità ecologica.
-4 L'entità degli aiuti finanziari cantonali corrisponde al 20 per cento dei contributi computabili di cui all'art. 7 cpv. 2 dell'ordinanza sul promovimento regionale della qualità e dell'interconnessione delle superfici di compensazione ecologica nell'agricoltura del 4 aprile 2001.
+# Art. 20a e la qualità del paesaggio
+1Il Cantone accorda contributi sia per l'interconnessione e la gestione adeguata di superfici per la promozione della biodiversità, sia per la salvaguardia, la promozione e lo sviluppo di paesaggi rurali variati.
+2 Ottengono i contributi i gestori che hanno diritto ai pagamenti diretti conformemente all'ordinanza concernente i pagamenti diretti all'agricoltura del 23 ottobre 2013 (OPD), per la gestione di fondi situati in Ticino.
+3 Il contributo cantonale copre la quota percentuale di finanziamento residua rispetto al contributo massimo accordato dalla Confederazione.
+4 Nell'ambito dei contributi per la qualità del paesaggio il Consiglio di Stato definisce nel regolamento gli obiettivi e i provvedimenti, nonché le condizioni relative alla stipulazione delle convenzioni di gestione.
+5 Il Cantone può sostenere l'allestimento, l'implementazione e l'accompagnamento di progetti d'interconnessione e per la qualità del paesaggio con un aiuto pari al 50% dei costi computabili, ritenuto un massimo di fr. 20'000.– per progetto.
