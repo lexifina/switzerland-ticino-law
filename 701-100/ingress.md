@@ -1,6 +1,6 @@
 # 7.1.1.1
 Legge
-sullo sviluppo territoriale (Lst)
+sullo sviluppo territoriale (LST)1
 (del 21 giugno 2011)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 – visto il messaggio 9 dicembre 2009 n. 6309 del Consiglio di Stato;

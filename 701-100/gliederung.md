@@ -16,6 +16,8 @@
 ## Sezione 1 Ricomposizione particellare
 ## Sezione 2 Acquisizione di terreni e zona edificabile d’interesse comunale
 ## TITOLO IV Finanziamento della pianificazione
+## Capitolo primo Norme generali
+## Capitolo secondo Compensazione di vantaggi e svantaggi derivanti dalla pianificazione
 ## TITOLO V Paesaggio
 ## Capitolo primo Obiettivi e principi
 ## Capitolo secondo Misure
