@@ -1,5 +1,2 @@
-# Art. 44h Tecnici riconosciuti
-1Sono considerati tecnici riconosciuti ai sensi dell'art. 41d) LE gli ingegneri ed architetti abilitati alla professione giusta l'art. 5 cpv. 1 della legge cantonale sull'esercizio delle professioni di ingegnere e di architetto del 24 marzo 2004, che esercitano da almeno tre anni nel campo dell'edilizia e che sono in possesso del diploma CFPA e del certificato di specialista antincendio rilasciato da un ente accreditato secondo le norme SN EN ISO/IEC 17024 o di esperto antincendio rilasciato dall'Associazione degli istituti cantonali di assicurazione antincendio AICAA.
-2 Per le costruzioni dell'industria e dell'artigianato, grandi depositi, nonché per gli ospedali e case di cura, edifici alti, negozi e grandi magazzini con superficie > 1200 mq, edifici con grande concentrazione di persone, autorimesse con superficie > 600 mq, edifici in legno (escluso le case monofamiliari), il Dipartimento richiede la qualifica di tecnico riconosciuto in possesso di entrambi i certificati di specialista antincendio rilasciato da un ente accreditato secondo le norme SN EN ISO/IEC 17024 e di esperto antincendio AICAA.
-3 I tecnici riconosciuti non possono redigere attestati di conformità, perizie di valutazione del rischio d'incendio, concetti di protezione antincendio, certificati di collaudo relativi ad oggetti per i quali sono già coinvolti quali progettisti/proprietari.
-4 I tecnici riconosciuti sono responsabili personalmente per la redazione dei documenti di loro competenza.
+# Art. 44h
+…
