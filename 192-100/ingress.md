@@ -1,5 +1,4 @@
-# 2.3.2.1
-Legge
+# Legge
 sulla Chiesa evangelica riformata nel Cantone Ticino
 (del 14 aprile 1997)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE DEL TICINO
