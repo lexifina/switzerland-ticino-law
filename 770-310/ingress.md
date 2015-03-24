@@ -1,5 +1,4 @@
-# 7.4.4.1.3
-Regolamento
+# Regolamento
 concernente le funivie e le sciovie esonerate dalla
 concessione federale
 (del 14 dicembre 1982)
