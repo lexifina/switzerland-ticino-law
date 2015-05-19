@@ -1,0 +1,2 @@
+# Art. 7a Trasmissione di dossier pendenti
+I membri del Consiglio di Stato che cessano la carica o assumono la direzione di un altro Dipartimento sono tenuti a trasmettere al successore nella loro integralità i dossier pendenti di carattere politico o amministrativo, non ancora maturi per l'archiviazione ai sensi dell'art. 5 cpv. 3 della legge sull'archiviazione e sugli archivi pubblici del 15 marzo 2011.
