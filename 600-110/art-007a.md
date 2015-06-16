@@ -1,0 +1,7 @@
+# Art. 7a Valutazione degli strumenti finanziari
+1Gli strumenti finanziari sono inizialmente iscritti nei beni patrimoniali al valore di acquisizione. Le valutazioni successive si effettuano al valore venale coerentemente con quanto definito dalla relativa raccomandazione contenuta nelle direttive di armonizzazione contabile intercantonale.
+2 I piazzamenti finanziari in obbligazioni, prestiti o simili, detenuti fino alla scadenza, e per i quali l'importo pagato corrisponde all'importo rimborsato, sono portati a bilancio al loro valore nominale.
+3 Il costo d'acquisto degli elementi dei beni amministrativi corrisponde al prezzo di transazione al quale si aggiungono le spese di transazione direttamente legate all'acquisto. Le valutazioni successive si effettuano al costo di acquisto dal quale vengono dedotti eventuali deprezzamenti dovuti a riduzioni durevoli di valore. In assenza del costo d'acquisto, si considera il valore venale.
+4 Gli impegni a breve e a lungo termine sono iscritti a bilancio al valore nominale.
+5 Aggio e disaggio derivanti da investimenti finanziari o impegni a lungo termine, al netto di eventuali costi d'emissione/acquisizione, sono ripartiti uniformemente su tutta la durata del credito o impegno.
+6 I prodotti derivati, sottoscritti allo scopo di copertura dei rischi sul tasso d'interesse, sono iscritti a bilancio al valore venale alla data di chiusura; la variazione del valore riscontrata rispetto alla valutazione precedente non è registrata nel conto economico, ma modifica direttamente il capitale proprio.
