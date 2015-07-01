@@ -16,7 +16,7 @@
 ## Sezione 4 Tribunale penale cantonale
 ## Sezione 5 Corte dei reclami penali
 ## Sezione 6 Corte di appello e di revisione penale
-## Sezione 7 Camera per l’avvocatura e per il notariato
+## Sezione 7
 ## Sezione 8
 ## Capitolo V Ministero pubblico
 ## Capitolo VI Ufficio del giudice dei provvedimenti coercitivi
