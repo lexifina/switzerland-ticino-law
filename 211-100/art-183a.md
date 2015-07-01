@@ -2,4 +2,6 @@
 1L'ipoteca legale sorge unitamente al credito da essa garantito, indipendentemente dall'iscrizione nel registro fondiario, e grava l'immobile al quale essa si riferisce. In presenza di più immobili, il pegno è collettivo.
 2 L'ipoteca legale a garanzia di importi superiori a 1'000 franchi in capitale non è opponibile a terzi in buona fede se non è iscritta a registro fondiario entro quattro mesi dall'esigibilità del credito garantito, rispettivamente entro due anni dalla sua nascita, conformemente all'articolo 836 capoverso 2 CC.
 3 Per crediti d'imposta garantiti inferiori o pari a 1'000 franchi, non è richiesta l'iscrizione nel registro fondiario.
-4 L'ipoteca legale prevale sugli altri pegni solamente nei casi previsti espressamente dalla legge. I pegni che prevalgono su tutti gli altri, tra di loro occupano il medesimo rango. Le altre ipoteche
+4 L'ipoteca legale prevale sugli altri pegni solamente nei casi previsti espressamente dalla legge. I pegni che prevalgono su tutti gli altri, tra di loro occupano il medesimo rango. Le altre ipoteche legali ottengono il grado a dipendenza della loro costituzione; esse avanzano di grado a dipendenza dell'estinzione di un diritto reale anteriore.
+3. Effetti
+2 Qualora il debitore non si identifichi con il proprietario del pegno, egli non potrà invocare l'articolo 41 capoverso 1bis della legge federale dell'11 aprile 1889 sulla esecuzione e sul fallimento.
