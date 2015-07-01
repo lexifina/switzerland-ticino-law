@@ -1,7 +1,6 @@
 # Art. 1a Presidenza itinerante
 1Le seguenti ARP sono presiedute dalla medesima persona:
 – ARP 1 e 2;
-– ARP 3 e 8;
 – ARP 4 e 6;
 – ARP 5, 7 e 9;
 – ARP 11, 12 e 13;
