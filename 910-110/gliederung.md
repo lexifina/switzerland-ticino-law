@@ -11,12 +11,7 @@
 ## Capitolo I Disposizioni generali
 ## Capitolo II Interconnessione
 ## Capitolo III Contributo
-## TITOLO IX Viticoltura
-## Capitolo I Impianto vigneti e catasto viticolo
-## Capitolo II Produzione
-## Sezione. Dichiarazione della vendemmia
-## Capitolo III Classificazione e denominazioni
-## Capitolo IV Vini DOC
+## TITOLO IX
 ## TITOLO X Protezione dei vegetali
 ## Capitolo I Protezione fitosanitaria
 ## Capitolo II Utilizzazione di prodotti per il trattamento delle piante
