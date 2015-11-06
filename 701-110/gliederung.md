@@ -4,7 +4,7 @@
 ## Capitolo terzo Informazione e partecipazione
 ## Capitolo quarto Tecnici qualificati
 ## Capitolo quinto Geodati
-## TITOLO II Strumenti della pianificazione territoriale
+## TITOLO II STRUMENTI DELLA PIANIFICAZIONE TERRITORIALE
 ## Capitolo primo Piani
 ## Sezione 1 Piano direttore cantonale
 ## Sezione 2 Piano regolatore
@@ -19,7 +19,14 @@
 ## Capitolo primo Politica fondiaria
 ## Sezione 1 Ricomposizione particellare
 ## Sezione 2 Acquisizione di terreni e zona edificabile d’interesse comunale
-## TITOLO IV Finanziamento della pianificazione
+## TITOLO IV
+## Capitolo primo Norme generali
+## Capitolo secondo Compensazione di vantaggi e svantaggi derivanti dalla pianificazione
+## Sezione 1 Norme generali
+## Sezione 2 Calcolo del plusvalore e del contributo
+## Sezione 3 Esenzione
+## Sezione 4 Prelievo del contributo di plusvalore
+## Sezione 5 Riversamento al Cantone e impiego del contributo
 ## TITOLO V Paesaggio
 ## Capitolo primo Obiettivi e principi
 ## Capitolo secondo Misure
