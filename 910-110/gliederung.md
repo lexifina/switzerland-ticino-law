@@ -1,20 +1,16 @@
 ## TITOLO I Generalità
 ## TITOLO II Miglioramenti strutturali
-## TITOLO III Aiuti per la conduzione aziendale
+## TITOLO III
 ## TITOLO IV Promozione dello smercio
 ## TITOLO V Avvicendamento generazionale
-## Capitolo I Azienda gestita da padre e figlio
-## Capitolo II Azienda senza successione familiare
-## TITOLO VI: Conversione delle aziende all’agricoltura biologica
+## TITOLO VI Conversione delle aziende all’agricoltura biologica
 ## TITOLO VII Pagamenti diretti
-## TITOLO VIII Qualità ecologica
-## Capitolo I Disposizioni generali
+## TITOLO VIII
+## Capitolo I
 ## Capitolo II Interconnessione
-## Capitolo III Contributo
+## Capitolo III Importo dei contributi
 ## TITOLO IX
 ## TITOLO X Protezione dei vegetali
-## Capitolo I Protezione fitosanitaria
-## Capitolo II Utilizzazione di prodotti per il trattamento delle piante
 ## TITOLO XI Obbligo di tollerare la gestione dei terreni incolti
 ## TITOLO XII Allevamento di animali
 ## TITOLO XIII Condotte veterinarie
