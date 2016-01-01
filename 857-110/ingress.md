@@ -1,7 +1,7 @@
 # 10.1.4.1.1
 Regolamento
 della legge sul rilancio dell’occupazione
-e sul sostegno ai disoccupati
+e sul sostegno ai disoccupati (RL-rilocc)1
 (del 4 febbraio 1998)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 vista la Legge sul rilancio dell'occupazione e sul sostegno ai disoccupati del 13 ottobre 1997 (L- rilocc); richiamate:

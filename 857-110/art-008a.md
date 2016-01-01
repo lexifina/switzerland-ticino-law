@@ -4,5 +4,6 @@
 - l'Ufficio regionale di collocamento ha preavvisato favorevolmente la partecipazione alla misura.
 2 Sono ammesse quali misure di sostegno esclusivamente i corsi di tecnica di ricerca d'impiego e di bilancio personale e professionale approvati dall'Ufficio delle misure attive.
 3 Il Cantone assume i costi d'organizzazione dei corsi, escluse le spese di vitto e di viaggio.
-Incentivi per nuove attività indipendenti
-(art. 6 L-rilocc)
+Sostegno alla assunzione di persone di età uguale o
+superiore ai 55 anni
+(art. 5a L-rilocc)
