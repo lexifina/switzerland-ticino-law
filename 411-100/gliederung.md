@@ -1,5 +1,5 @@
 ## TITOLO I Disposizioni generali
-## Capitolo I Finalità, principi generali e ordinamento
+## Capitolo I Scopo
 ## Capitolo II Assunzione del personale scolastico
 ## TITOLO II La scuola dell’infanzia
 ## Capitolo I Organizzazione
@@ -16,6 +16,7 @@
 ## Capitolo I Costituzione degli istituti ed edilizia scolastica
 ## Capitolo II Frequenza degli allievi
 ## Capitolo III Collaborazione nella formazione dei docenti
+## Capitolo IV Ordinamento
 ## TITOLO VI Promovimento, coordinamento, vigilanza
 ## Capitolo I Operatori e organi scolastici cantonali
 ## Capitolo II Organi scolastici comunali
