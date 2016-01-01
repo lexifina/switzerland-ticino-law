@@ -1,4 +1,6 @@
 # Art. 4a al primo impiego
 1Per incentivare l'assunzione di giovani al primo impiego l'autorità competente può assumere in parte o integralmente i costi di partecipazione finanziaria del datore di lavoro ai periodi di pratica professionale previsti dalla LADI.
-2 Il Consiglio di Stato precisa, tramite regolamento, la cerchia dei beneficiari, i salari massimi di riferimento, la procedura, le condizioni di concessione, di revoca e dell'eventuale restituzione degli aiuti.
+2 Per incentivare l'assunzione di apprendisti disoccupati al termine del loro apprendistato e di giovani al termine della formazione da parte di datori di lavoro privati o pubblici (Cantone escluso), lo Stato può concedere loro un aiuto finanziario per 12 mesi al massimo, corrispondente al 20% del salario a carico del datore di lavoro (ma non oltre i 2/3 del massimo assicurabile ai sensi della LADI), conformemente ai disposti dell'art. 3 cpv. 3 e cpv. 4 della legge.
+3 L'aiuto viene erogato solo dopo che il rapporto di lavoro è durato almeno il doppio del periodo sussidiato. L'aiuto è limitato ai settori e/o alle regioni particolarmente colpiti dalla crisi economica e dalla disoccupazione ed eventualmente a determinate categorie di disoccupati svantaggiati.
+4 Il Consiglio di Stato precisa, tramite regolamento, la cerchia dei beneficiari, i salari massimi di riferimento, la procedura, le condizioni di concessione, di revoca e dell'eventuale restituzione degli aiuti.
 Sostegno al collocamento per giovani soggetti
