@@ -1,0 +1,5 @@
+# Art. 13a Conservazione e consultazione degli atti
+1Gli atti delle procedure penali che non sfociano in una sentenza del giudice del merito sono conservati dal Magistrato dei minorenni, quelli in cui è stata emanata una sentenza di merito dal Tribunale dei minorenni e quelli d'esecuzione dall'autorità competente. Il Consiglio di Stato stabilisce i termini di conservazione.
+2 Il Magistrato dei minorenni decide sulla consultazione di atti di procedure concluse.
+3 L'ispezione degli atti di un processo e l'estrazione di copie può essere permessa a chi giustifica un interesse giuridico legittimo che prevale sui diritti personali delle persone implicate nel processo, segnatamente su quelli delle parti, del denunciante, dei testimoni e dei periti.
+4 Le decisioni concernenti la consultazione degli atti sono impugnabili mediante reclamo alla Corte dei reclami penali del Tribunale di appello entro 10 giorni; si applica per analogia la procedura prevista agli articoli 379 e seguenti del Codice di procedura penale del 5 ottobre 2007.
