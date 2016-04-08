@@ -1,4 +1,4 @@
-# 2.4.1.8
+# N 2.4.1.8
 Regolamento
 sulle deleghe di competenze decisionali
 (del 24 agosto 1994)
