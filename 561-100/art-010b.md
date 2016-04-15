@@ -1,4 +1,4 @@
-# Art. 10b Competenza
+# Art. 10b di manifestazioni sportive. Competenza
 1L'ufficiale della polizia cantonale è competente:
 a) a vietare a una persona di accedere, in determinati orari, a un'area esattamente delimitata in prossimità di una manifestazione sportiva;
 b) a obbligare una persona a presentarsi alla polizia in determinati orari;
