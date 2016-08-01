@@ -1,5 +1,5 @@
 # Legge
-sui trasporti pubblici
+sui trasporti pubblici (LTPub)1
 (del 6 dicembre 1994)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 richiamate:

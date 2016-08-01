@@ -1,4 +1,2 @@
 # Art. 35a
-…
-Norma transitoria
-Il Consiglio di Stato presenta al Gran Consiglio, durante il 2015, previa un'apposita consultazione dei diretti interessati, un messaggio e il relativo disegno di modifica della legge sui trasporti pubblici del 6 dicembre 1994, concernente le disposizioni sulla tassa di collegamento di cui al principio dell'art. 35. Il Consiglio di Stato è autorizzato a compiere tutti gli atti preparatori necessari conseguenti, segnatamente il conteggio dei parcheggi privati potenzialmente oggetto della tassa di collegamento.
+Il provento della tassa di collegamento è vincolato al finanziamento delle spese di gestione dell'offerta di trasporto pubblico ai sensi dell'art. 23 cpv. 2 e concorre a coprire l'onere a carico del Cantone, dedotti i contributi della Confederazione, dei Comuni e di terzi.

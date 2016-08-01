@@ -6,10 +6,10 @@
 ## CAPITOLO II Offerta di trasporto per le linee d’importanza locale
 ## CAPITOLO III Mandato di prestazioni e comunità tariffali
 ## CAPITOLO IV Altri provvedimenti comuni
-## TITOLO IV Generalità
+## CAPITOLO I Generalità
 ## CAPITOLO II Linee d’importanza cantonale
 ## CAPITOLO III Linee d’importanza locale
-## CAPITOLO IV Partecipazione finanziaria dei privati
-## CAPITOLO V Traffico regionale
+## CAPITOLO IV
+## CAPITOLO V Destinazione della tassa
 ## TITOLO V Servizi integrativi
 ## TITOLO VI Disposizioni finali
