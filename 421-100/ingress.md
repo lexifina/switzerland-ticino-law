@@ -6,3 +6,4 @@ professionale della Svizzera italiana e sugli Istituti di ricerca1
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 visti il messaggio 11 ottobre 1994 n. 4308 del Consiglio di Stato e il rapporto 30 agosto 1995 n. 4308 R della Commissione speciale «Università»,
 d e c r et a:
+Università e Scuola universitaria professionale
