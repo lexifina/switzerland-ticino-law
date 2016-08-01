@@ -6,9 +6,7 @@ c) favorisce lo sviluppo professionale dei titolari delle funzioni pubbliche;
 d) rende attrattiva la funzione pubblica così da stimolare una collaborazione durevole di personale qualificato;
 e) concretizza il sistema di indicatori relativo al carico di lavoro degli impiegati;
 f) realizza indagini periodiche sul clima di lavoro e sulla soddisfazione dell'utenza;
-g) favorisce, laddove possibile, l'impiego a tempo parziale.
-Principi
-personale in modo adeguato, economico e socialmente responsabile, e persegue lo scopo di avvicinare l'Amministrazione al cittadino.
+g) favorisce, laddove possibile, l'impiego a tempo parziale. rispetto dei compiti istituzionali e alle disponibilità finanziarie dello Stato. Lo Stato impiega il suo personale in modo adeguato, economico e socialmente responsabile, e persegue lo scopo di avvicinare l'Amministrazione al cittadino.
 2 Essa tende in particolare a:
 a) rendere attrattivo l'impiego presso l'Amministrazione;
 b) considerare le esigenze dei collaboratori, promovendo nel contempo il loro sviluppo professionale, la motivazione, il coinvolgimento, la mobilità e la polivalenza;

@@ -9,10 +9,7 @@
 ## Capitolo VIII Violazione dei doveri di servizio
 ## Capitolo IX Diritti del dipendente
 ## Capitolo X Formazione professionale
-## Capitolo XI Previdenza e assicurazioni
 ## Capitolo XII Cessazione del rapporto d’impiego
-## Capitolo XIII Contestazioni relative al rapporto d’impiego
 ## TITOLO II Disposizioni speciali per gli impiegati
-## TITOLO III Disposizioni speciali per i docenti
+## TITOLO III
 ## TITOLO IV Commissione paritetica
-## TITOLO V Disposizioni transitorie, abrogative e finali
