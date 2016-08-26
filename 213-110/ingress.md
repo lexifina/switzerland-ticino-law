@@ -1,8 +1,8 @@
-# 4.1.2.2.1
-Regolamento
+# Regolamento
 della legge sull’organizzazione e la procedura in materia
-di protezione del minore e dell’adulto (ROPMA)1
+di protezione del minore e dell’adulto
+(ROPMA)1
 (del 29 novembre 2000)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
-d e c r et a:
+de c r e t a :
 Autorità regionale di protezione
