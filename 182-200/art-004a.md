@@ -5,3 +5,4 @@
 – di non dar seguito all'istanza. La facoltà di modificare lo scenario è data anche in corso di procedura.
 3 In presenza di più istanze contraddittorie concernenti lo stesso Comune, il Consiglio di Stato ne decide il seguito.
 4 Contro le decisioni negative del Consiglio di Stato ai sensi dei capoversi precedenti ai Municipi, ai Legislativi e ai cittadini dei Comuni interessati è data facoltà di ricorso al Gran Consiglio entro il termine di 30 giorni.
+c) d'ufficio
