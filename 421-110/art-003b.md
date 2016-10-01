@@ -1,6 +1,4 @@
-# Art. 3b Procedura di associazione
-1L'associazione di un istituto pubblico o privato all'USI o alla SUPSI è valutata in prima istanza dal Consiglio dell'USI o dal Consiglio della SUPSI tenendo conto dei requisiti di cui all'art. 16 della legge o di requisiti equivalenti.
-2 La proposta di associazione viene comunicata dal Consiglio dell'USI o dal Consiglio della SUPSI al Consiglio di Stato, al quale spetta la ratifica definitiva.
-3 L'ente associato e la scuola associante stipulano un accordo di associazione.
-4 Eventuali contributi cantonali vengono versati direttamente all'ente associato attraverso un contratto di prestazioni specifico.
-Protezione della denominazione
+# Art. 3b
+1L'affiliazione di una facoltà, di un dipartimento o di un istituto a USI o SUPSI è valutata in prima istanza dal Consiglio dell'USI o dal Consiglio della SUPSI. In tale procedura il consiglio tiene conto dei requisiti di cui agli art. 13 e 16 della legge.
+2 L'accordo di affiliazione per essere valido deve essere approvato preliminarmente dal Consiglio di Stato se non comporta oneri finanziari o dal Gran Consiglio se comporta oneri finanziari per il Cantone.
+3 Facoltà, dipartimenti o istituti affiliati con l'approvazione del Gran Consiglio sono finanziati di regola attraverso i contratti di prestazioni della scuola affiliante, che devono essere in tal senso modificati. I contributi cantonali sono versati in modo integrale dall'ente affiliante all'ente affiliato secondo quanto specificato nell'accordo di affiliazione.

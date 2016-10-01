@@ -1,4 +1,3 @@
-# Art. 3a Procedura di affiliazione
-1L'affiliazione di una facoltà, di un dipartimento o di un istituto a USI o SUPSI è valutata in prima istanza dal Consiglio dell'USI o dal Consiglio della SUPSI. In tale procedura il consiglio tiene conto dei requisiti di cui agli art. 13 e 16 della legge.
-2 L'accordo di affiliazione per essere valido deve essere approvato preliminarmente dal Consiglio di Stato se non comporta oneri finanziari o dal Gran Consiglio se comporta oneri finanziari per il Cantone.
-3 Facoltà, dipartimenti o istituti affiliati con l'approvazione del Gran Consiglio sono finanziati di regola attraverso i contratti di prestazioni della scuola affiliante, che devono essere in tal senso modificati. I contributi cantonali sono versati in modo integrale dall'ente affiliante all'ente affiliato secondo quanto specificato nell'accordo di affiliazione.
+# Art. 3a
+Il rettore dell'USI viene designato dal Consiglio di Stato nel Consiglio dell'USI tra i membri di nomina governativa.
+Procedura di affiliazione
