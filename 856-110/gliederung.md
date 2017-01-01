@@ -6,7 +6,7 @@
 ## TITOLO II Prestazioni familiari cantonali
 ## Capitolo primo Assegno integrativo
 ## Capitolo secondo Assegno di prima infanzia
-## Capitolo terzo Rimborso della spesa di collocamento del figlio
+## Capitolo terzo
 ## Capitolo quarto Disposizioni comuni
 ## Capitolo quinto Aspetti organizzativi
 ## Capitolo sesto Finanziamento
