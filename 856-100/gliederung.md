@@ -9,7 +9,7 @@
 ## Capitolo primo Applicabilità della legislazione sulla Laps, della legislazione federale
 ## Capitolo secondo Assegno integrativo
 ## Capitolo terzo Assegno di prima infanzia
-## Capitolo quarto Rimborso della spesa di collocamento del figlio
+## Capitolo quarto …
 ## Capitolo quinto Disposizioni comuni
 ## Capitolo sesto Aspetti organizzativi
 ## Capitolo settimo Finanziamento
