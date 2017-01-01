@@ -1,5 +1,4 @@
-# 6.4.2.1
-Legge
+# Legge
 sul sostegno alle attività delle famiglie e di protezione
 dei minorenni
 (Legge per le famiglie)
@@ -11,4 +10,4 @@ IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 - l'art. 316 del Codice civile svizzero (CCS);
 - l'Ordinanza federale sull'accoglimento di minori a scopo di affiliazione e di adozione (OAMin);
 - ritenuto che i termini utilizzati in tutta la legge sono da intendere sia al maschile che al femminile,
-d e c r et a:
+de c r e t a :
