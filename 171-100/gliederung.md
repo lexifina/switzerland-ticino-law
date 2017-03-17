@@ -11,6 +11,7 @@
 ## TITOLO V Rapporti con il Consiglio di Stato
 ## Capitolo primo Principi generali
 ## Capitolo secondo Interventi del Consiglio di Stato nei lavori del Gran Consiglio
+## Capitolo terzo Evasione e attuazione degli atti parlamentari
 ## TITOLO VI Leggi, decreti, concordati e regolamenti
 ## TITOLO VII Alta vigilanza
 ## TITOLO VIII Petizioni, diritto di grazia e ricorsi
