@@ -1,9 +1,9 @@
-# 5.2.1.1
-Legge
+# Legge
 sull’orientamento scolastico e professionale e sulla formazione
-professionale e continua (Lorform)
+professionale e continua
+(Lorform)
 (del 4 febbraio 1998)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 - visto il messaggio 21 marzo 1997 no. 4625/3 del Consiglio di Stato;
 - visto il rapporto 19 gennaio 1998 no. 4625/3 R della Commissione speciale scolastica;
-d e c r et a:
+d e c re t a :
