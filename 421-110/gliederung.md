@@ -4,4 +4,5 @@
 ## Capitolo quarto Denominazioni tutelate
 ## Capitolo quinto Modalità per i contributi
 ## Capitolo sesto Autorità di ricorso
-## Capitolo settimo Abrogazione
+## Capitolo settimo Pagamento dei contributi
+## Capitolo ottavo Norme finali
