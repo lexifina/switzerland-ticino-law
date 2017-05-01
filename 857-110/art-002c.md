@@ -3,7 +3,7 @@ L'ufficio giuridico è competente per:
 a) decidere in merito all'idoneità al collocamento (art. 85 cpv. 1 lett. d LADI);
 b) decidere i casi sottoposti per esame dalle casse di disoccupazione (art. 85 cpv. 1 lett. e LADI);
 c) sospendere gli assicurati dal diritto alle prestazioni (art. 85 cpv. 1 lett. g LADI), nella misura in cui tale competenza non è delegata ad un'altra autorità;
-d) …
+d) …;
 e) assolvere, nell'ambito delle indennità per lavoro ridotto e intemperie, i compiti riservati ai servizi cantonali (art. 85 cpv. 1 lett. g e i LADI);
 f) decidere le contravvenzioni (art. 28 L-rilocc);
 g) trasmette gli atti al Ministero pubblico nel caso di reati penali di cui agli articoli 105 e 106 LADI;
