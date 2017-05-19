@@ -4,5 +4,5 @@
 ## CAPITOLO III Organizzazione di corpi pompieri
 ## CAPITOLO IV Istruzione
 ## CAPITOLO V Equipaggiamento e infrastrutture
-## CAPITOLO VI Finanziamento
+## CAPITOLO VL Finanziamento
 ## CAPITOLO VII Norme finali
