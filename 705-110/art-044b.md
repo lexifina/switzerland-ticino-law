@@ -12,7 +12,7 @@ a) designa al suo interno i rappresentanti cantonali nei gremi specialistici fed
 b) costituisce una sottocommissione tecnica e una giuridica, nonché eventuali gruppi di lavoro su temi particolari;
 c) decide su tutte le questioni in materia di protezione antincendio di competenza cantonale che non sono espressamente attribuite alle sottocommissioni.
 3 La sottocommissione tecnica:
-a) nelle procedure edilizie riguardanti edifici o impianti con un rischio accresciuto d'incendio, esprime un parere all'indirizzo del Municipio sulla ricevibilità degli attestati di conformità progettuale antincendio;
+a) …;
 b) promuove e coordina la formazione nell'ambito della protezione antincendio;
 c) formula pareri su questioni di natura tecnica attinenti alla protezione antincendio. Alle sedute della sottocommissione tecnica partecipa di diritto il Delegato cantonale per la polizia del fuoco.
 4 La sottocommissione giuridica:
