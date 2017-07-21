@@ -1,4 +1,4 @@
-# Art. 30a b) Compiti generali
+# Art. 30a
 L'Incaricato cantonale della protezione dei dati segnatamente:
 a) sorveglia l'applicazione delle norme sulla protezione dei dati da parte dei soggetti ai sensi dell'articolo 2 capoverso 2;
 b) informa le persone interessate sui loro diritti;
@@ -10,4 +10,4 @@ g) esercita l'alta vigilanza in materia di protezione dei dati sugli Incaricati 
 h) ogni anno presenta al Gran Consiglio e al Consiglio di Stato un rapporto nel quale commenta la propria attività. Questo rapporto viene pubblicato;
 i) è organo consultivo del Cantone in materia di protezione dei dati;
 j) collabora, nella misura necessaria allo svolgimento dei propri compiti, con le altre autorità di controllo dei Cantoni, della Confederazione e degli altri Paesi, in particolare scambiando con loro ogni informazione utile.
-c) Competenze
+c) Competenze e modo d'intervento
