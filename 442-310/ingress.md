@@ -1,5 +1,4 @@
-# 5.5.2.1.1
-Regolamento
+# Regolamento
 della Pinacoteca cantonale Giovanni Züst
 (del 16 dicembre 2014)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
