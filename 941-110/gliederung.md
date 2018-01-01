@@ -1,4 +1,4 @@
-## Capitolo primo C o mp et en ze
+## Capitolo primo Competenze
 ## Capitolo secondo Organizzazione
 ## Capitolo terzo Notifica dei pernottamenti
 ## Capitolo quarto Tasse per il turismo
