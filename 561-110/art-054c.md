@@ -1,2 +1,2 @@
 # Art. 54c
-Sono autorizzati a ordinare l'arresto oltre le tre ore i quadri superiori della polizia cantonale, segnatamente, gli ufficiali, i commissari-capo, gli aiutanti-capo, i commissari e gli aiutanti.
+La polizia cantonale si organizza in modo autonomo per garantire l'esecuzione efficace delle istruzioni del Ministero pubblico e degli atti di cui all'articolo 2 capoverso 3 LPol.
