@@ -1,5 +1,4 @@
-# 6.4.1.1
-Legge
+# Legge
 sugli assegni di famiglia
 (del 18 dicembre 2008)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
@@ -10,4 +9,4 @@ IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 n. 6078R della Commissione della gestione e delle finanze del Gran Consiglio,
 - visto il messaggio 2 dicembre 2008 n. 6150 del Consiglio di Stato,
 - ritenuto che i termini utilizzati nella legge sono da intendere sia al maschile che al femminile,
-d e c r et a:
+d e c re t a :
