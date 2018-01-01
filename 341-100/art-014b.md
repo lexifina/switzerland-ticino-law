@@ -3,3 +3,4 @@
 2 Il Ministero pubblico decide sulla consultazione di atti di procedure concluse.
 3 L'ispezione degli atti di un processo e l'estrazione di copie può essere permessa a chi giustifica un interesse giuridico legittimo che prevale sui diritti personali delle persone implicate nel processo, segnatamente su quelli delle parti, del denunciante, dei testimoni e dei periti.
 4 Le decisioni concernenti la consultazione degli atti sono impugnabili mediante reclamo alla Corte dei reclami penali del Tribunale di appello entro 10 giorni; si applica per analogia la procedura prevista agli articoli 379 e seguenti CPP.
+A. Art. 67, 67a, 67b, 67c, 67d CP
