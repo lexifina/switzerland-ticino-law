@@ -1,7 +1,7 @@
-# 1.4.2.5.2
-Regolamento
+# Regolamento
 concernente l’uniformazione dei gradi e delle condizioni di stipendio
-dei Corpi di polizia cantonale e comunali (RUGraS)
+dei corpi di polizia cantonale e comunali
+(RUGraS)
 (del 1 giugno 2017)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 Richiamati:
@@ -12,4 +12,4 @@ Richiamati:
 – la legge sugli stipendi degli impiegati dello Stato e dei docenti del 5 novembre 1954;
 – il regolamento concernente le funzioni e le classificazioni dei dipendenti dello Stato del 24 febbraio 2016;
 – il regolamento concernente le indennità ai dipendenti dello Stato del 27 settembre 2011;
-d e c r et a:
+d e c re t a :
