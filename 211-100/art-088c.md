@@ -10,3 +10,4 @@ g) la designazione della quantità e della specie delle monete per il denaro con
 h) l'indicazione dei titoli di valore, dei crediti e dei debiti;
 i) la descrizione delle carte, delle scritture, delle note, concernenti lo stato attivo e passivo, che devono essere sottoscritte in principio ed in fine dal notaio; lo stato dei libri e dei registri deve essere accertato sommariamente;
 l) l'indicazione del modo con cui si è provveduto alla custodia e alla conservazione dei documenti e degli oggetti inventariati.
+2 Se l'inventario non può essere compiuto in una sola seduta, è tenuto in forma di verbale e datato e firmato, ad ogni ripresa, dal notaio e dalle parti intervenute.
