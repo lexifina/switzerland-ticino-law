@@ -7,3 +7,4 @@ d) contiene il dettaglio degli accantonamenti;
 e) contiene il dettaglio delle partecipazioni e delle garanzie;
 f) contiene il dettaglio delle immobilizzazioni;
 g) fornisce delle indicazioni complementari ai fini della valutazione dello stato del patrimonio, dei ricavi e delle spese, delle entrate e delle uscite per investimenti, degli impegni, nonché dello stato dei rischi finanziari.
+Contabilità analitica

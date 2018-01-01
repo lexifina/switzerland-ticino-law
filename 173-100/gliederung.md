@@ -10,6 +10,7 @@
 ## Capitolo IX Diritti del dipendente
 ## Capitolo X Formazione professionale
 ## Capitolo XII Cessazione del rapporto d’impiego
+## Capitolo XIII A. Ricorso al Consiglio di Stato
 ## TITOLO II Disposizioni speciali per gli impiegati
 ## TITOLO III
 ## TITOLO IV Commissione paritetica
