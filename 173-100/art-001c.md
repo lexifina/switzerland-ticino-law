@@ -1,4 +1,4 @@
-# Art. 1c
+# Art. 1c Principi
 1La politica del personale, definita e attuata dal Consiglio di Stato, è subordinata al rispetto dei compiti istituzionali e alle disponibilità finanziarie dello Stato. Lo Stato impiega il suo personale in modo adeguato, economico e socialmente responsabile, e persegue lo scopo di avvicinare l'Amministrazione al cittadino.
 2 Essa tende in particolare a:
 a) rendere attrattivo l'impiego presso l'Amministrazione;

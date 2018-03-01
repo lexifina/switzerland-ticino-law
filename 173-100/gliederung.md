@@ -9,8 +9,10 @@
 ## Capitolo VIII Violazione dei doveri di servizio
 ## Capitolo IX Diritti del dipendente
 ## Capitolo X Formazione professionale
+## Capitolo XI Previdenza e assicurazioni
 ## Capitolo XII Cessazione del rapporto d’impiego
-## Capitolo XIII A. Ricorso al Consiglio di Stato
+## Capitolo XIII Contestazioni relative al rapporto d’impiego
 ## TITOLO II Disposizioni speciali per gli impiegati
 ## TITOLO III
 ## TITOLO IV Commissione paritetica
+## TITOLO V Disposizioni transitorie, abrogative e finali
