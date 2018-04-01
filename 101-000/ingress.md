@@ -1,5 +1,4 @@
-# 1.1.1.1
-Costituzione
+# Costituzione
 della Repubblica e Cantone Ticino
 (del 14 dicembre 1997)
 PREAMBOLO
