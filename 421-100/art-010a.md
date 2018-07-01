@@ -1,3 +1,4 @@
 # Art. 10a Assunzioni
 1Le assunzioni da parte dell'USI, della SUPSI e d'istituti affiliati avvengono per pubblico concorso, secondo le norme dei regolamenti interni elaborati dagli enti universitari.
 2 Tali regolamenti stabiliscono i casi nei quali, per giustificati motivi, è possibile rinunciare al concorso.
+3 Nell'assunzione del personale amministrativo, bibliotecario, tecnico e ausiliario, l'Università della Svizzera italiana, la Scuola universitaria professionale della Svizzera italiana e gli istituti di ricerca, a parità di requisiti e qualifiche e salvaguardando gli obiettivi aziendali, danno la precedenza alle persone residenti, purché idonee a occupare il posto di lavoro offerto. Esse tengono in debita considerazione candidature di chi si trova in disoccupazione o al beneficio dell'assistenza.
