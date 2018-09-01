@@ -1,0 +1,3 @@
+# Art. 8a Norma transitoria della modifica del 4 luglio 2018
+1Ai fini dell'ottenimento dell'autorizzazione per l'esecuzione delle prestazioni di cui all'art. 1 lett. a), b), c) e f) è parimenti riconosciuto il titolo di «estetista con diploma federale» o equivalente se lo stesso è stato rilasciato o riconosciuto dalla Segreteria di Stato per la formazione, la ricerca e l'innovazione (SEFRI) prima del 1° agosto 2018.
+2 Ai fini dell'ottenimento dell'autorizzazione per l'esecuzione delle prestazioni di cui all'art. 1 lett. d) ed e) è parimenti riconosciuto il titolo ai sensi del cpv. 1, a condizione che l'istante abbia inoltre assolto il relativo corso proposto dall'Associazione estetiste della Svizzera italiana (AESI) o equivalente.
