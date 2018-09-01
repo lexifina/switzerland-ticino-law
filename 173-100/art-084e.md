@@ -1,0 +1,3 @@
+# Art. 84e Dati personali relativi alla salute
+1Il Servizio medico del personale dell'Amministrazione cantonale, come pure il servizio corrispettivo dello IAS per la propria unità amministrativa, sono gli organi responsabili dell'elaborazione dei dati personali sulla salute dei dipendenti, in particolare quelli relativi alla valutazione della loro idoneità lavorativa e al loro accompagnamento medico.
+2 Essi possono comunicare agli organi di cui all'art. 84 cpv. 1 unicamente le conclusioni attinenti all'idoneità rispettivamente inidoneità lavorativa della persona interessata, al grado, alla causa e alla durata presumibile dell'inabilità lavorativa e eventuali altre conclusioni necessarie all'assunzione e alla gestione del rapporto d'impiego.

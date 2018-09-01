@@ -14,5 +14,5 @@
 ## Capitolo XIII Contestazioni relative al rapporto d’impiego
 ## TITOLO II Disposizioni speciali per gli impiegati
 ## TITOLO III
-## TITOLO IV Commissione paritetica
+## TITOLO IV Sistemi d’informazione
 ## TITOLO V Disposizioni transitorie, abrogative e finali
