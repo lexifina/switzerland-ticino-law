@@ -11,6 +11,8 @@ c) effettuare punzioni di ogni genere e tipo;
 d) trattare malattie veneree e trasmissibili;
 e) utilizzare apparecchiature ionizzanti;
 f) prescrivere, utilizzare o vendere apparecchiature destinate all'uso da parte dei medici;
-g) prescrivere e somministrare medicamenti, ad eccezione dei prodotti appartenenti alle categorie D ed E in base alle convenzioni intercantonali di cui all'art. 92, di quelli autorizzati dal Dipartimento e dei medicamenti di medicina omeopatica ed antroposofoca notificati come vendibili senza ricetta medica in base alle convenzioni intercantonali di cui all'art. 92.
+g) prescrivere e somministrare medicamenti, ad eccezione dei prodotti appartenenti alle categorie D ed E in base alle convenzioni intercantonali di cui all'art. 92, di quelli autorizzati dal Dipartimento e dei medicamenti di medicina omeopatica ed antroposofoca notificati come vendibili senza ricetta medica in base alle convenzioni intercantonali di cui all'art. 92;
+h) offrire prestazioni rientranti nel campo di competenza del «naturopata con diploma federale» e del «terapista complementare con diploma federale», né di altre professioni sanitarie disciplinate;
+i) distogliere il paziente da cure e prestazioni scientificamente riconosciute.
 3 Il Medico cantonale può accordare eccezioni in casi particolari.
 bb) i terapisti in possesso di un

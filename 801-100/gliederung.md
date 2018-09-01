@@ -7,7 +7,6 @@
 ## CAPITOLO III Protezione sanitaria
 ## TITOLO V Operatori sanitari
 ## Capitolo I Disposizioni comuni
-## Titolo VI di questa legge. Comparaggio
 ## Capitolo II Disposizioni particolari
 ## TITOLO VI Strutture e servizi sanitari
 ## TITOLO VII Agenti terapeutici

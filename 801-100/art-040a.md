@@ -8,4 +8,4 @@ d) non essere gravato da attestati di carenza beni, provvisori o definitivi o ce
 e) dimostrare di avere una copertura assicurativa per la responsabilità civile, estesa anche ai dipendenti;
 f) dimostrare di disporre di locali e attrezzature adeguate per l'esercizio dell'attività.
 3 Il Consiglio di Stato stabilisce mediante regolamento le modalità relative alla concessione e alla revoca dell'autorizzazione.
-B. Immunizzazione e malattie trasmissibili
+B. Malattie trasmissibili
