@@ -12,4 +12,4 @@ Richiamati:
 – la legge sugli stipendi degli impiegati dello Stato e dei docenti del 5 novembre 1954;
 – il regolamento concernente le funzioni e le classificazioni dei dipendenti dello Stato del 24 febbraio 2016;
 – il regolamento concernente le indennità ai dipendenti dello Stato del 27 settembre 2011;
-d e c re t a :
+de c r e t a :
