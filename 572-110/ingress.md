@@ -4,4 +4,4 @@ della legge di applicazione della legge federale sugli esplosivi
 (del 14 dicembre 2010)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 visti gli art. 2 e 6 della legge del 10 novembre 2010 di applicazione della legge federale 25 marzo 1977 sugli esplosivi (LCLEspl),
-d e c re t a :
+de c r e t a :
