@@ -11,6 +11,7 @@
 ## Capitolo terzo Assegno di prima infanzia
 ## Capitolo quarto …
 ## Capitolo quinto Disposizioni comuni
-## Capitolo sesto Aspetti organizzativi
-## Capitolo settimo Finanziamento
+## Capitolo sesto A. Aventi diritto
+## Capitolo settimo Organo d’esecuzione
+## Capitolo ottavo C. Assegno parentale, misure di sostegno alle famiglie e di politica aziendale a favore delle
 ## TITOLO IV Disposizione abrogativa e finale

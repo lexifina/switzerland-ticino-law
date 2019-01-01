@@ -9,4 +9,4 @@ IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 n. 6078R della Commissione della gestione e delle finanze del Gran Consiglio,
 - visto il messaggio 2 dicembre 2008 n. 6150 del Consiglio di Stato,
 - ritenuto che i termini utilizzati nella legge sono da intendere sia al maschile che al femminile,
-d e c re t a :
+de c r e t a :
