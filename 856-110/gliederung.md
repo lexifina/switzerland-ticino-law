@@ -8,7 +8,7 @@
 ## Capitolo secondo Assegno di prima infanzia
 ## Capitolo terzo
 ## Capitolo quarto Disposizioni comuni
-## Capitolo quinto Aspetti organizzativi
-## Capitolo sesto Finanziamento
-## Capitolo settimo Diritto a prestazioni familiari ai salariati in malattia
+## Capitolo quinto A. Autorizzazione di accoglienza
+## Capitolo sesto
+## Capitolo settimo A. Contributi per il finanziamento
 ## TITOLO III Disposizione abrogativa e finale
