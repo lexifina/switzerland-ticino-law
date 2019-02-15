@@ -11,4 +11,4 @@ visti:
 – la legge sulle scuole professionali del 2 ottobre 1996;
 – il regolamento della legge della scuola del 19 maggio 1992;
 – il regolamento della formazione professionale e continua del 1° luglio 2014;
-d e c re t a :
+de c r e t a :
