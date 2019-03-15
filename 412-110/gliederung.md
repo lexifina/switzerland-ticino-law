@@ -1,6 +1,7 @@
 ## TITOLO I Disposizioni generali
 ## Capitolo primo Direzione generale dell’insegnamento
 ## Capitolo secondo Collegio dei direttori
+## Sezione. Convocazione
 ## Capitolo terzo Esperti di materia
 ## Capitolo quarto Collegio dei capigruppo
 ## TITOLO II Delle sedi
