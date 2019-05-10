@@ -1,7 +1,7 @@
 # Regolamento
 della legge cantonale di applicazione alla legislazione federale
-sulla circolazione stradale
-(del 2 marzo 1999)
+sulla circolazione stradale e la tassa sul traffico pesante
+(RLACS)1 (del 2 marzo 1999)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 richiamata la Legge cantonale di applicazione alla legislazione federale sulla circolazione stradale del 24 settembre 1985 (in seguito: LACS);
-d e c re t a :
+de c r e t a :
