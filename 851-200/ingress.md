@@ -9,4 +9,4 @@ IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 - visto il messaggio 2 maggio 2007 n. 5924 del Consiglio di Stato;
 - visto il rapporto 28 agosto 2007 n. 5924 R della Commissione della gestione e delle finanze;
 - ritenuto che i termini utilizzati in tutta la legge sono da intendere sia al maschile che al femminile,
-d e c re t a :
+de c r e t a :
