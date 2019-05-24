@@ -3,3 +3,4 @@
 2 Per gli assicurati cui è stata prevista una misura di protezione secondo il diritto tutorio, il pagamento rimane in sospeso finché la misura non è revocata e/o il credito relativo all'assicurazione obbligatoria delle cure medico-sanitarie scoperto non è stato pagato integralmente.
 3 Il Cantone assume i crediti relativi all'assicurazione obbligatoria delle cure medico-sanitarie accertati in un attestato di carenza di beni conformemente alla legislazione federale in materia di assicurazione obbligatoria delle cure medico-sanitarie soltanto nei confronti degli assicuratori che hanno conservato la titolarità dell'attestato di carenza di beni riferito al credito chiesto in restituzione.
 4 Il Cantone non assume alcun ulteriore costo rispetto a quelli stabiliti dalla legislazione federale in materia di assicurazione obbligatoria delle cure medico-sanitarie.
+A. Campo di applicazione
