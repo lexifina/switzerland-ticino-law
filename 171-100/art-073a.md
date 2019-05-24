@@ -1,0 +1,2 @@
+# Art. 73a 5. Atti soggetti al diritto di veto del Gran Consiglio
+Gli atti del Consiglio di Stato e dei suoi Dipartimenti soggetti al diritto di veto del Gran Consiglio di cui all'art. 62 cpv. 3 sono pubblicati nel Foglio ufficiale e possono essere messi in vigore soltanto se su di essi il Gran Consiglio non ha esercitato il diritto di veto entro il termine di 60 giorni da detta pubblicazione, sospesi nel periodo di cui all'art. 114 cpv. 1 LGC.
