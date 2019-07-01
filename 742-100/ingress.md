@@ -6,4 +6,4 @@ sull’approvvigionamento elettrico
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 - visto il messaggio 8 luglio 2009 n. 6249 del Consiglio di Stato,
 - visto il rapporto di maggioranza 17 novembre 2009 n. 6249R1 della Commissione speciale energia,
-d e c re t a :
+de c r e t a :

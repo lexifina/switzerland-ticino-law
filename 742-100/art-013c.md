@@ -1,0 +1,6 @@
+# Art. 13c Riscatto
+1Alla scadenza della concessione d'uso, il Comune o più Comuni assieme possono assumere in proprio la gestione della rete. Il riscatto può essere chiesto con preavviso di due anni, salvo diversa disposizione delle parti.
+2 A tale scopo il Comune o più Comuni assieme hanno il diritto di chiedere l'anticipata immissione in possesso degli impianti almeno un anno prima della scadenza della concessione d'uso. Il riscatto può inoltre essere chiesto quando sia trascorso un terzo della durata complessiva della concessione con un preavviso di due anni.
+3 Il riscatto della rete di distribuzione di energia elettrica potrà avvenire solo previo esame e consenso del Consiglio di Stato, che dovrà determinarsi sulla modifica del comprensorio di rete.
+4 Per l'indennità di riscatto si applicano per analogia le disposizioni sul riscatto delle concessioni previste dal Capitolo III della Legge organica comunale, salvo diversa disposizione delle parti.
+5 Le contestazioni sul riscatto, sulla relativa indennità e sull'anticipata immissione in possesso sono decise dal Tribunale delle espropriazioni, contro la cui decisione è dato ricorso al Tribunale amministrativo ai sensi della legge di espropriazione dell'8 marzo 1971.
