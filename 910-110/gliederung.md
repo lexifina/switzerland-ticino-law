@@ -2,6 +2,7 @@
 ## TITOLO II Miglioramenti strutturali
 ## TITOLO III
 ## TITOLO IV Promozione dello smercio
+## Sezione. Contributi versati dai non membri
 ## TITOLO V Avvicendamento generazionale
 ## TITOLO VI Conversione delle aziende all’agricoltura biologica
 ## TITOLO VII Pagamenti diretti
@@ -11,6 +12,7 @@
 ## Capitolo III Importo dei contributi
 ## TITOLO IX
 ## TITOLO X Protezione dei vegetali
+## Sezione.
 ## TITOLO XI Obbligo di tollerare la gestione dei terreni incolti
 ## TITOLO XII Allevamento di animali
 ## TITOLO XIII Condotte veterinarie
