@@ -1,0 +1,3 @@
+# Art. 12e I. Organo competente e indennizzo
+9 1La Cassa cantonale di compensazione per gli assegni familiari è l'organo competente per l'applicazione della perequazione degli oneri.
+2 Per l'esecuzione di questo compito, la Cassa cantonale di compensazione per gli assegni familiari riceve un indennizzo tramite le Casse di compensazione per gli assegni familiari proporzionalmente al numero dei figli assicurati per l'assegno per figli e l'assegno di formazione delle categorie di affiliati soggetti alla perequazione, ma almeno di 50 franchi annui. I relativi importi sono fatturati nell'anno successivo all'anno di computo della perequazione.
