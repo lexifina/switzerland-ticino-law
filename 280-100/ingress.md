@@ -6,4 +6,5 @@ sulla esecuzione e sul fallimento
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 - visto il messaggio 6 novembre 1996 n. 4595 del Consiglio di Stato;
 - visto il rapporto 21 febbraio 1997 n. 4595 R della Commissione della legislazione,
-d e c re t a :
+de c r e t a :
+Circondario di esecuzione e circondario dei fallimenti
