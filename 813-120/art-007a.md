@@ -1,2 +1,2 @@
-# Art. 7a ai terapisti complementari
+# Art. 7a Disposizione transitoria relativa ai terapisti complementari
 A coloro che hanno sostenuto con successo, prima del 1° settembre 2018, l'esame cantonale per l'ottenimento dell'autorizzazione di esercizio quale terapista complementare di cui all'art. 63a della legge e a coloro che il 1° settembre 2018 erano validamente iscritti a un percorso formativo «tronco comune» riconosciuto dall'Organizzazione del mondo del Lavoro terapia complementare (OmL TC) si applica il diritto previgente la modifica dell'11 dicembre 2017 della legge.
