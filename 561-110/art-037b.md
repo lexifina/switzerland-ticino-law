@@ -5,4 +5,3 @@ b) essere in possesso di un titolo di grado terziario universitario (bachelor o 
 c) disporre di conoscenze almeno buone della lingua italiana parlata e scritta;
 d) attestare un livello B1 (secondo il Portfolio Europeo delle Lingue) nella comprensione e nella produzione orale in francese, tedesco e inglese.
 2 La direzione di polizia si riserva il diritto di integrare ulteriori criteri nel caso si rivelasse necessario.
-4) formazione aspiranti ispettori assunti
