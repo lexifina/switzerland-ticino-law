@@ -1,4 +1,4 @@
-# Art. 20a
+# Art. 20a Contributi per la biodiversità e la qualità del paesaggio
 1Il Cantone accorda contributi sia per l'interconnessione e la gestione adeguata di superfici per la promozione della biodiversità, sia per la salvaguardia, la promozione e lo sviluppo di paesaggi rurali variati.
 2 Ottengono i contributi i gestori che hanno diritto ai pagamenti diretti conformemente all'ordinanza concernente i pagamenti diretti all'agricoltura del 23 ottobre 2013 (OPD), per la gestione di fondi situati in Ticino.
 3 Il contributo cantonale copre la quota percentuale di finanziamento residua rispetto al contributo massimo accordato dalla Confederazione.
