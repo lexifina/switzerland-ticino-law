@@ -5,5 +5,4 @@ a) considerando i premi medi di riferimento calcolati secondo la legge in vigore
 b) PMR x coefficiente cantonale di finanziamento pari al 73.5%, per le unità di riferimento con un reddito disponibile inferiore o uguale al 50% del limite di fabbisogno;
 c) PMR x coefficiente cantonale di finanziamento pari al 70%, per le unità di riferimento con un reddito disponibile superiore al 50%, ma inferiore o uguale al 100% del limite di fabbisogno.
 per premi pagati in eccesso
-A. Richiedenti la riduzione dei premi
-(art. 106-106c LAMal)
+A. Richiedenti la riduzione dei premi (art. 106-106c LAMal)

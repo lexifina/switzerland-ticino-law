@@ -33,7 +33,7 @@
 ## Sezione III Restituzione e condono
 ## TITOLO IVA Ripartizione degli oneri tra Cantone e Comuni
 ## TITOLO V Pianificazione
-## TITOLO VBIS Finanziamento delle prestazioni di cura erogate negli ospedali (Art. 39 cpv. 1 LAMal)
+## TITOLO Vbis Finanziamento delle prestazioni di cura erogate negli ospedali (Art. 39 cpv. 1 LAMal)
 ## Capitolo I In generale
 ## Capitolo II Fornitori di prestazioni con sede nel Cantone
 ## Capitolo III Ricoveri fuori Cantone

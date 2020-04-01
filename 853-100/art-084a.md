@@ -1,4 +1,4 @@
-# Art. 84a del 15.12.2015
+# Art. 84a B. Disposizione transitoria della modifica del 15.12.2015
 1Se non concordato diversamente tra le parti, per due anni dall'entrata in vigore della presente modifica di legge, i reparti acuti di minore intensità fatturano:
 a) le prestazioni di cura e assistenza in base ai criteri di cui agli art. 7 e segg. OPre;
 b) le prestazioni mediche, diagnostiche e terapeutiche all'atto;

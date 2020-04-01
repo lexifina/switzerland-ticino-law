@@ -4,4 +4,4 @@
 3 La registrazione nell'elenco equivale a comunicazione alle autorità di cui al capoverso 2.
 4 L'assicurato rimane registrato nell'elenco degli assicurati sospesi sino al pagamento dei crediti relativi all'assicurazione obbligatoria delle cure medico-sanitarie scoperti.
 5 Per la protezione e la sicurezza dei dati sono applicabili, oltre alle disposizioni del diritto federale e di questa legge, le disposizioni della legge cantonale sulla protezione dei dati personali del 9 marzo 1987.
-6 Il Regolamento disciplina i particolari.
+6 Il regolamento disciplina i particolari.
