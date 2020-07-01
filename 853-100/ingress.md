@@ -1,5 +1,5 @@
-# Legge di applicazione
-della legge federale sull’assicurazione malattie
+# Legge
+di applicazione della legge federale sull’assicurazione malattie
 (LCAMal)
 (del 26 giugno 1997)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO

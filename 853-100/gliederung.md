@@ -29,7 +29,7 @@
 ## Sezione VI Restituzione da parte degli assicuratori malattie negli anni 2015, 2016 e 2017
 ## Capitolo IV Disposizioni comuni
 ## Sezione I Norme di procedura
-## Sezione II Riduzione dei premi per anni precedenti quello di competenza
+## Sezione II
 ## Sezione III Restituzione e condono
 ## TITOLO IVA Ripartizione degli oneri tra Cantone e Comuni
 ## TITOLO V Pianificazione

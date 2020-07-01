@@ -5,4 +5,3 @@ a) gli oneri relativi ai premi dell'assicurazione obbligatoria delle cure medico
 b) la franchigia;
 c) le partecipazioni ai costi.
 3 Il regolamento disciplina i particolari.
-II. Trattamento dei dati da parte dell’autorità

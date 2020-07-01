@@ -1,4 +1,4 @@
-# Art. 66e bis di minore intensità
+# Art. 66e bis II. Prestazioni erogate dai reparti acuti di minore intensità
 Il contributo globale è stabilito tenendo conto:
 a) dei costi:
 – delle prestazioni di cura;

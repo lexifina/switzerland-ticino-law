@@ -3,3 +3,4 @@
 2 L'obbligo di ammissione risulta adempiuto se i pazienti con la sola assicurazione obbligatoria delle cure medico-sanitarie (AOMS) sono almeno il 50%.
 3 Per gli assicurati domiciliati fuori Cantone, l'obbligo d'ammissione si applica soltanto nei limiti del mandato di prestazioni e nei casi d'urgenza.
 4 Contro la violazione dell'obbligo di ammissione ai sensi dei cpv. 1 e 2 è data facoltà di segnalazione al Consiglio di Stato che decide i provvedimenti necessari, segnatamente le sanzioni di cui all'art. 66r.
+G. Elaborazione
