@@ -19,7 +19,7 @@
 ## Capitolo quinto Attività nello stabilimento
 ## Capitolo sesto Congedi e accompagnamenti
 ## Capitolo settimo Regime disciplinare
-## Capitolo ottavo Impiego della forza fisica, uso dei mezzi di coercizione e uso dell’arma da fuoco
+## Capitolo ottavo Impiego della forza fisica
 ## Capitolo nono Diritto di reclamo
 ## TITOLO VI Disposizioni particolari
 ## TITOLO VII Disposizioni finali
