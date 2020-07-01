@@ -1,5 +1,5 @@
 ## Capitolo I Principi generali
-## Capitolo II Centro cantonale d’accertamento e di formazione professionale e sociale
+## Capitolo II Funzioni
 ## Capitolo III Provvedimenti
 ## Capitolo IV Sussidiamento
 ## Capitolo V Organizzazione, vigilanza

@@ -5,4 +5,3 @@
 4 Il regolamento stabilisce i requisiti e la procedura per l'ottenimento dell'autorizzazione.
 5 Contro le decisioni del Dipartimento è data facoltà di ricorso al Consiglio di Stato; contro le decisioni di quest'ultimo è data facoltà di ricorso al Tribunale cantonale amministrativo.
 6 Il Consiglio di Stato può in ogni tempo revocare l'autorizzazione qualora i requisiti per il suo rilascio non siano più adempiuti; contro la decisione di revoca è data facoltà di ricorso al Tribunale cantonale amministrativo.
-Riconoscimento degli istituti per invalidi e
