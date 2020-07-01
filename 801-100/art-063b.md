@@ -15,4 +15,3 @@ g) prescrivere e somministrare medicamenti, ad eccezione dei prodotti appartenen
 h) offrire prestazioni rientranti nel campo di competenza del «naturopata con diploma federale» e del «terapista complementare con diploma federale», né di altre professioni sanitarie disciplinate;
 i) distogliere il paziente da cure e prestazioni scientificamente riconosciute.
 3 Il Medico cantonale può accordare eccezioni in casi particolari.
-bb) i terapisti in possesso di un

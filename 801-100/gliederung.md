@@ -8,7 +8,7 @@
 ## TITOLO V Operatori sanitari
 ## Capitolo I Disposizioni comuni
 ## Capitolo II Disposizioni particolari
-## TITOLO VI Strutture e servizi sanitari
+## TITOLO VI Nozione e vigilanza
 ## TITOLO VII Agenti terapeutici
 ## TITOLO VIII Tasse, procedure e contravvenzioni
 ## TITOLO IX Disposizioni transitorie e finali

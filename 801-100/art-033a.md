@@ -1,0 +1,2 @@
+# Art. 33a Preferenza indigena
+Nell'assunzione del personale, gli enti attivi nella prevenzione e promozione della salute finanziati con contratto di prestazione ed in ragione della disponibilità di personale con determinati requisiti professionali in ambito sociale o sanitario, a parità di requisiti e qualifiche e salvaguardando gli obiettivi aziendali, danno la precedenza alle persone residenti, purché idonee a occupare il posto di lavoro offerto. Essi tengono in debita considerazione candidature di chi si trova in disoccupazione o al beneficio dell'assistenza.
