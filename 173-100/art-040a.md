@@ -2,3 +2,4 @@
 I dipendenti percepiscono, per l'attività prestata, lo stipendio, i supplementi e le indennità previsti dalla legge sugli stipendi e dai regolamenti.
 B. Vacanze
 I. Impiegati
+1. In generale

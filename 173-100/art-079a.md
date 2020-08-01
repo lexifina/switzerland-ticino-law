@@ -1,4 +1,3 @@
 # Art. 79a
 ...
-C. Onere di lavoro degli operatori
-scolastici specializzati
+C. Onere di lavoro degli operatori scolastici specializzati
