@@ -9,5 +9,4 @@ e) legge federale sul contratto d'assicurazione del 2 aprile 1908 (LCA);
 f) legge federale sull'assicurazione militare del 19 giugno 1992 (LAM);
 g) legge federale sull'assicurazione obbligatoria contro la disoccupazione e l'indennità per insolvenza del 25 giugno 1982 (LADI);
 h) legge sulle indennità di perdita di guadagno in caso di adozione del 23 settembre 2015.
-D. Pagamento dell'assegno
-(art. 71e cpv. 3 Laf)
+D. Pagamento dell'assegno (art. 71e cpv. 3 Laf)
