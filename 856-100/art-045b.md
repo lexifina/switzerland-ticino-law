@@ -1,3 +1,2 @@
-# Art. 45b a 45g
+# Art. 45b-45g
 …
-sulla LPGA, della legislazione federale sull’AVS e della legislazione federale
