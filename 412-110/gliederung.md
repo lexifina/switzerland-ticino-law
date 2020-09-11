@@ -9,6 +9,7 @@
 ## Capitolo primo Diritti, doveri e frequenza delle scuole
 ## Capitolo secondo Sanzioni disciplinari
 ## Capitolo terzo Trasporto e refezione scolastici
+## Capitolo quarto Doposcuola
 ## TITOLO IV Funzionamento dell’istituto scolastico
 ## Capitolo primo Obiettivi fondamentali
 ## Capitolo secondo Organizzazione della scuola
