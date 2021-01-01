@@ -5,5 +5,5 @@ e sulla protezione dei pesci e dei gamberi indigeni
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 richiamate:
 - la legge cantonale sulla pesca e sulla protezione dei pesci e dei gamberi indigeni del 26 giugno 1996;
-- la legge federale sulla pesca del 21 giugno 1991 e l'ordinanza di applicazione del 24 novembre 1993;
+- la legge federale sulla pesca del 21 giugno 1991 e l'ordinanza di applicazione del 24 novembre 1993,
 de c r e t a :

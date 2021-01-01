@@ -4,3 +4,4 @@
 a) l'importo dell'anticipo effettuato;
 b) il periodo per il quale ha effettuato l'anticipo.
 3 Sulla scorta dei dati ottenuti, l'organismo pubblico che ha beneficiato degli anticipi procede al necessario rimborso.
+A. Ruolo dei Comuni
