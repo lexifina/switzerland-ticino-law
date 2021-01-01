@@ -4,6 +4,6 @@ sugli assegni di famiglia
 (del 23 giugno 2009)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 - vista la legge sugli assegni di famiglia del 18 dicembre 2008 (Laf);
-- ritenuto che i termini utilizzati sono da intendere sia al maschile che al femminile;
+- ritenuto che i termini utilizzati sono da intendere sia al maschile che al femminile,
 de c r e t a :
 A. Prestazioni familiari facoltative (art. 4 Laf)
