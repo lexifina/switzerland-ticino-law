@@ -1,9 +1,8 @@
 # Regolamento
-concernente le funivie e le sciovie esonerate dalla
-concessione federale
+concernente le funivie e le sciovie esonerate dalla concessione federale
 (del 14 dicembre 1982)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
-richiamati
+richiamati:
 - la legge federale sugli impianti a fune adibiti al trasporto di persone del 23 giugno 2006 (LIFT);
 - l'ordinanza sugli impianti a fune adibiti al trasporto di persone del 21 dicembre 2006 (OIFT);
 - il concordato concernente gli impianti di trasporto a fune e le sciovie esonerati dalla concessione federale del 15 ottobre 1951;
