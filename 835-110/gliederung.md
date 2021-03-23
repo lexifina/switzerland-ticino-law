@@ -1,8 +1,7 @@
-## CAPITOLO I Disposizioni generali
-## CAPITOLO II Misure di prevenzione
-## Sezione forestale sono vincolanti.
-## CAPITOLO III Organizzazione di corpi pompieri
-## CAPITOLO IV Istruzione
-## CAPITOLO V Equipaggiamento e infrastrutture
-## CAPITOLO VL Finanziamento
-## CAPITOLO VII Norme finali
+## Capitolo I Disposizioni generali
+## Capitolo II Misure di prevenzione
+## Capitolo III Organizzazione di corpi pompieri
+## Capitolo IV Istruzione
+## Capitolo V Equipaggiamento e infrastrutture
+## Capitolo VI Finanziamento
+## Capitolo VII Norme finali
