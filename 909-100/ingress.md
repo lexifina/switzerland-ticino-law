@@ -1,4 +1,4 @@
-# Decreto legislativo urgente
+# Legge
 sullo stanziamento di un credito lordo di 75.6 milioni di franchi e netto di
 24.52 milioni di franchi per l’adozione di misure a favore dei casi di rigore ai
 sensi dell’ordinanza COVID-19 sui casi di rigore, sul contributo a copertura
