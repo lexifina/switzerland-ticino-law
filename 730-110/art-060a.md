@@ -1,3 +1,2 @@
 # Art. 60a
 …
-Autorità di vigilanza

@@ -3,4 +3,3 @@
 2 Le offerte devono essere presentate in forma scritta, salvo per le merci offerte pubblicamente ad un prezzo inferiore a 10'000 franchi (IVA esclusa).
 3 Nell'incarico diretto con più offerte il committente non può negoziare le offerte.
 4 Le commesse fondate su di un contratto di sponsorizzazione possono essere stipulate per incarico diretto quando la differenza di valore a favore del beneficiario è inferiore ai valori soglia di cui all'art. 7 della legge.
-Termini
