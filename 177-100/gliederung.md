@@ -2,7 +2,7 @@
 ## Capitolo I Campo d’applicazione
 ## Capitolo II Elezioni
 ## Sezione 1 Magistrati
-## Sezione 2 Assessori-giurati
+## Sezione 2 Procedura di elezione
 ## Capitolo IIa Lingua del procedimento
 ## Capitolo III Norme comuni
 ## TITOLO II Autorità giudiziarie
@@ -14,12 +14,12 @@
 ## Sezione 2 Sezione di diritto civile
 ## Sezione 3 Sezione di diritto pubblico
 ## Sezione 4 Tribunale penale cantonale
-## Sezione 5 Corte dei reclami penali
-## Sezione 6 Corte di appello e di revisione penale
+## Sezione 5 Composizione e competenze
+## Sezione 6 Composizione e competenze
 ## Sezione 7
 ## Sezione 8
 ## Capitolo V Ministero pubblico
-## Capitolo VI Ufficio del giudice dei provvedimenti coercitivi
+## Capitolo VI Organizzazione
 ## Capitolo VII
 ## Capitolo VIII Consiglio della magistratura
 ## TITOLO III Disposizioni transitorie e finali
