@@ -1,10 +1,10 @@
-## Capitolo I Norme introduttive
-## Capitolo II Esercizio della caccia
-## Capitolo III Protezione
-## Capitolo IV Danni causati dalla selvaggina
-## Capitolo V Informazione, formazione, ricerca
-## Capitolo VI Responsabilità civile e assicurazione
-## Capitolo VII Fondo di intervento
-## Capitolo VIII Norme penali
-## Capitolo IX Ricorsi
-## Capitolo X Disposizioni transitorie
+## Capitolo primo Norme introduttive
+## Capitolo secondo Esercizio della caccia
+## Capitolo terzo Protezione
+## Capitolo quarto Danni causati dalla selvaggina
+## Capitolo quinto Informazione, formazione, ricerca
+## Capitolo sesto Responsabilità civile e assicurazione
+## Capitolo settimo Fondo di intervento
+## Capitolo ottavo Norme penali
+## Capitolo nono Ricorsi
+## Capitolo decimo Disposizioni transitorie
