@@ -1,0 +1,4 @@
+# Art. 67a Proscioglimento dall’obbligo scolastico
+1L'allievo che ha ottenuto la licenza è prosciolto dall'obbligo scolastico; il certificato di proscioglimento è iscritto nella licenza.
+2 Se entro la fine dell'anno scolastico (comprese le vacanze estive che lo seguono) in cui l'allievo compie i quindici anni egli non ottiene la licenza, il certificato di proscioglimento viene rilasciato al termine dell'anno scolastico.
+3 In presenza di seri motivi, segnatamente in caso di impegno incostante, comportamento problematico e risultati scolastici non soddisfacenti, al compimento dei 15 anni la prosecuzione della frequenza scolastica dell'allievo può essere sospesa a favore di un progetto personalizzato; in questi casi il certificato di proscioglimento viene rilasciato contestualmente alla sospensione della frequenza.
