@@ -13,6 +13,6 @@
 ## Capitolo XII Cessazione del rapporto d’impiego
 ## Capitolo XIII Contestazioni relative al rapporto d’impiego
 ## TITOLO II Disposizioni speciali per gli impiegati
-## TITOLO III
+## TITOLO III A. Onere di servizio dei docenti
 ## TITOLO IV Sistemi d’informazione
 ## TITOLO V Disposizioni transitorie, abrogative e finali

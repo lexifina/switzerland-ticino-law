@@ -5,4 +5,3 @@
 4 La decisione di trasferimento dev'essere motivata e comunicata tempestivamente all'interessato.
 5 Le esigenze del dipendente trasferito, nella misura del possibile, devono essere tenute in considerazione.
 B. Rapporti speciali
-I. Collaboratori personali
