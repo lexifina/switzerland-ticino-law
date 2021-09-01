@@ -1,5 +1,6 @@
 ## TITOLO I Disposizioni generali
-## TITOLO II Formazione professionale di base
+## TITOLO II Principio
+## TITOLO III Formazione professionale di base
 ## Capitolo primo Pretirocinio
 ## Capitolo secondo Contratto di tirocinio e ordinanza in materia di formazione
 ## Capitolo terzo Norme durante il tirocinio
@@ -15,14 +16,14 @@
 ## Sezione 5 Valutazione, frequenza e sanzioni
 ## Capitolo nono Procedura di qualificazione, esami parziali e finali
 ## Capitolo decimo Vigilanza sul tirocinio
-## TITOLO III Formazione continua
+## TITOLO IV Formazione continua
 ## Capitolo primo Principi e competenze
 ## Capitolo secondo Ambito di intervento
 ## Capitolo terzo Formazione professionale superiore
 ## Capitolo quarto Formazione per adulti
 ## Capitolo quinto Aggiornamento, perfezionamento e riqualificazione professionali
 ## Capitolo sesto Vigilanza sulla formazione continua
-## TITOLO IV Servizi
+## TITOLO V Servizi
 ## Capitolo primo Sostegno individuale
 ## Capitolo secondo Case management formazione professionale
 ## Capitolo terzo Provvedimenti per regioni e gruppi sfavoriti
@@ -30,11 +31,11 @@
 ## Capitolo quinto Servizio di documentazione e sussidi didattici
 ## Capitolo sesto Servizio Lingue e stage all’estero
 ## Capitolo settimo Controllo della qualità
-## TITOLO V Certificazioni
+## TITOLO VI Certificazioni
 ## Capitolo primo Titoli cantonali
 ## Capitolo secondo Altre certificazioni
-## TITOLO VI Formazione dei responsabili della formazione professionale
-## TITOLO VII Finanziamento della formazione professionale
-## TITOLO VIII Commissione cantonale per la formazione professionale
-## TITOLO IX Rimedi giuridici e norme penali
-## TITOLO X Disposizioni finali
+## TITOLO VII Formazione dei responsabili della formazione professionale
+## TITOLO VIII Finanziamento della formazione professionale
+## TITOLO IX Commissione cantonale per la formazione professionale
+## TITOLO X Rimedi giuridici e norme penali
+## TITOLO XI Disposizioni finali
