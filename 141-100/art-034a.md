@@ -3,7 +3,8 @@
 2 Per l'adempimento dei compiti legali che gli sono attribuiti, gli organi responsabili dell'applicazione della presente legge possono implementare sistemi d'informazione per la gestione delle naturalizzazioni.
 3 Agli aventi diritto di voto sono trasmessi i seguenti dati:
 a) cittadinanza;
-b) durata della residenza; nella comunità ticinese.
+b) durata della residenza;
+c) adempimento delle condizioni di idoneità, in particolare per quanto attiene all'integrazione nella comunità ticinese.
 4 Riservate le facoltà di trasmissione, pubblicazione e iscrizione dei dati nei registri pubblici di diritto cantonale secondo la presente legge e il relativo regolamento d'applicazione, gli organi di cui al cpv. 1 soggiacciono al segreto d'ufficio.
 5 Per quanto non previsto dalla presente legge e dal rispettivo regolamento d'applicazione, è applicabile la legge sulla protezione dei dati personali del 9 marzo 1987.
 6 Il Consiglio di Stato disciplina i particolari, segnatamente:
