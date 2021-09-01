@@ -1,5 +1,4 @@
 ## Capitolo primo Generalità
-## Capitolo secondo Autorità competenti
 ## Capitolo terzo Incentivi cantonali
 ## Capitolo quarto RIC-TI
 ## Capitolo quinto Contributo unico per la costruzione di impianti
