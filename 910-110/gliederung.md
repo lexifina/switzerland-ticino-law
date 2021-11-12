@@ -7,12 +7,12 @@
 ## TITOLO VI Conversione delle aziende all’agricoltura biologica
 ## TITOLO VII Pagamenti diretti
 ## TITOLO VIII
-## Capitolo I
-## Capitolo II Interconnessione
-## Capitolo III Importo dei contributi
-## TITOLO IX
+## Capitolo primo
+## Capitolo secondo Interconnessione
+## Capitolo terzo Importo dei contributi
+## TITOLO IX Esame cantonale per l’esercizio dell’agriturismo
 ## TITOLO X Protezione dei vegetali
-## Sezione.
+## Sezione. Organismi nocivi per il settore agricolo
 ## TITOLO XI Obbligo di tollerare la gestione dei terreni incolti
 ## TITOLO XII Allevamento di animali
 ## TITOLO XIII Condotte veterinarie
@@ -20,12 +20,12 @@
 ## TITOLO XV Organizzazioni agricole
 ## TITOLO XVI Dati delle aziende agricole
 ## TITOLO XVII Protezione giuridica, misure amministrative e disposizioni penali
-## Capitolo I Protezione giuridica
-## Capitolo II Misure amministrative
-## Capitolo III Disposizioni penali
+## Capitolo primo Protezione giuridica
+## Capitolo secondo Misure amministrative
+## Capitolo terzo
 ## TITOLO XVIII Disposizioni finali
-## Capitolo I Esecuzione
-## Capitolo II Tasse
-## Capitolo III Disposizioni transitorie
-## Capitolo IV Abrogazione
-## Capitolo V Entrata in vigore
+## Capitolo primo Esecuzione
+## Capitolo secondo Tasse
+## Capitolo terzo Disposizioni transitorie
+## Capitolo quarto Abrogazione
+## Capitolo quinto Entrata in vigore
