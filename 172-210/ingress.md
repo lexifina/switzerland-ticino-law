@@ -1,6 +1,5 @@
 # Regolamento
-sull’organizzazione del Consiglio di Stato e
-dell’Amministrazione
+sull’organizzazione del Consiglio di Stato e dell’Amministrazione
 (del 26 aprile 2001)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 - visti gli art. 65 e segg. della Costituzione cantonale del 14 dicembre 1997;
