@@ -4,4 +4,4 @@
 3 Gli Uffici dei registri comunicano ai Municipi interessati le compravendite avvenute riguardo a terreni soggetti al contributo di plusvalore, conformemente all'art. 41 RLRF.
 4 Il notaio informa le parti dell'esistenza di un'ipoteca legale iscritta a garanzia del pagamento del contributo di plusvalore.
 Debitore del contributo
-(art. 94 cpv. 1 Lst)
+(art. 94 cpv. 1 LST)

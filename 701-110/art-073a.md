@@ -1,4 +1,4 @@
-# Art. 73a d) Tasse
-Per il rilascio dell'autorizzazione a costruire fa stato l'art. 19 LE.
+# Art. 73a
+…
 e) rimedi di diritto
-(art. 53 cpv. 2 let. d Lst)
+(art. 53 cpv. 2 lett. d LST)

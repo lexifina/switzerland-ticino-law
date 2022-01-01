@@ -4,13 +4,14 @@
 ## Capitolo terzo Informazione e partecipazione
 ## Capitolo quarto Tecnici qualificati
 ## Capitolo quinto Geodati
-## TITOLO II STRUMENTI DELLA PIANIFICAZIONE TERRITORIALE
+## TITOLO II Strumenti della pianificazione territoriale
 ## Capitolo primo Piani
 ## Sezione 1 Piano direttore cantonale
 ## Sezione 2 Piano regolatore
 ## Sezione 3 Piano d’utilizzazione cantonale
 ## Sezione 4 Piano particolareggiato
 ## Sezione 5 Piano di quartiere
+## Sezione 6 Piano cantonale con autorizzazione a costruire
 ## Capitolo secondo Salvaguardia della pianificazione
 ## Capitolo terzo Edificabilità dei fondi
 ## Sezione 1 Principio ed eccezioni
@@ -19,6 +20,7 @@
 ## Capitolo primo Politica fondiaria
 ## Sezione 1 Ricomposizione particellare
 ## Sezione 2 Acquisizione di terreni e zona edificabile d’interesse comunale
+## Sezione 3 Garanzia della disponibilità di terreni edificabili
 ## TITOLO IV
 ## Capitolo primo Norme generali
 ## Capitolo secondo Compensazione di vantaggi e svantaggi derivanti dalla pianificazione
