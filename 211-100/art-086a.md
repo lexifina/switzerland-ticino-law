@@ -13,3 +13,5 @@ j) le misure relative a dati oggetti nella divisione (612 cpv. 3 e 613 cpv. 3 CC
 k) la nomina dei periti per la divisione (618 cpv. 1 CC).
 2 È applicabile la procedura sommaria del codice di procedura civile del 19 dicembre 2008.
 D. Devoluzione dell'eredità
+I. Apposizione dei sigilli
+a. Casi

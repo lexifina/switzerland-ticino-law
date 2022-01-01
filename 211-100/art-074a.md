@@ -1,3 +1,2 @@
 # Art. 74a
-...
-I. Asili di famiglia (Art. 349 CCS)
+... I. Asili di famiglia (Art. 349 CCS)
