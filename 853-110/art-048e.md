@@ -1,4 +1,4 @@
-# Art. 48e per fattori straordinari e imprevedibili
+# Art. 48e Adeguamenti del contributo globale per fattori straordinari e imprevedibili
 Il contributo globale può essere adeguato, con modalità da concordare di volta in volta per:
 a) eventi eccezionali (epidemie, catastrofi, ecc.);
 b) attribuzione di compiti non previsti dalla legislazione in vigore o a seguito di modifiche dei mandati secondo la pianificazione ospedaliera ai sensi dell'art. 39 cpv. 1 LAMal;

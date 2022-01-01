@@ -16,8 +16,9 @@
 ## Capitolo terzo Sospensione
 ## Capitolo quarto Intervento sociale
 ## Capitolo quinto Disposizioni transitorie
-## TITOLO IVA Ospedalizzazioni nel Cantone
-## TITOLO IVB Ospedalizzazioni fuori Cantone
+## TITOLO IVa Ospedalizzazioni nel Cantone
+## TITOLO IVb Ospedalizzazioni fuori Cantone
+## TITOLO IVc Autorizzazione dei fornitori di prestazioni
 ## TITOLO V Approvazione delle convenzioni tariffali
 ## TITOLO VI Disposizione abrogativa e finale
 ## Capitolo II Riduzione individuale di premio nell’assicurazione malattie
@@ -26,6 +27,6 @@
 ## Sezione III Diritto alla riduzione di premio e calcolo
 ## Sezione IV Versamento della riduzione di premio
 ## Sezione V Conteggio degli importi di riduzione di premio
-## Sezione VI Accertamento del reddito determinante al di fuori, o in assenza,
+## Sezione VI Accertamento del reddito determinante al di fuori, o in assenza, della tassazione fiscale
 ## Capitolo III Pagamento dei premi per assicurati beneficiari di PC AVS AI
 ## Sezione IV Crediti scoperti maturati dall’assicuratore prima del 1° gennaio 2006
