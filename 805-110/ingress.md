@@ -1,7 +1,6 @@
 # Regolamento
-del Consiglio di Stato sul servizio medico nelle zone
-di montagna
-(del 26 gennaio 1999)
+sul servizio medico nelle zone di montagna
+(RMont)1 (del 26 gennaio 1999)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 vista la legge sul servizio medico nelle zone di montagna del 5 novembre 1997 (LMont),
 de c r e t a :
