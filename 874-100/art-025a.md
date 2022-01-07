@@ -1,2 +1,2 @@
-# Art. 25a Ibis. Preferenza indigena
-Nell'assunzione del personale, gli enti privati che erogano prestazioni ai sensi degli art. 18, 19 e 20 cpv. 1 lett. b) e riconosciuti ai sensi dell'art. 26, a parità di requisiti e qualifiche e salvaguardando gli obiettivi aziendali, danno la precedenza alle persone residenti, purché idonee a occupare il posto di lavoro offerto. Essi tengono in debita considerazione candidature di chi si trova in disoccupazione o al beneficio dell'assistenza.
+# Art. 25a
+…

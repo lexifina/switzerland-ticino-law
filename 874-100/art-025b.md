@@ -1,2 +1,2 @@
-# Art. 25b Iter. Rispetto del contratto collettivo di lavoro
-La sottoscrizione di un contratto di prestazione, nella misura in cui i rapporti di impiego non sono disciplinati da normative di diritto pubblico, è subordinata alla verifica del rispetto delle condizioni di lavoro usuali del settore da comprovare tramite l'attestazione di adesione a un contratto collettivo di lavoro (CCL) o, nel caso in cui l'istituto non ne avesse sottoscritto uno, la certificazione emanata dalla commissione paritetica del settore che, come da mandato conferito dal Consiglio di Stato, attesti la conformità dei contratti individuali.
+# Art. 25b
+…

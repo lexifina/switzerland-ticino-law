@@ -1,0 +1,2 @@
+# Art. 41a B. Preferenza indigena
+Nell'assunzione del personale, gli enti che erogano prestazioni ai sensi degli art. 7, 8, 9 e 10, riconosciuti ai sensi dell'art. 11, e quelli che erogano prestazioni ai sensi degli art. 18, 19 e 20 cpv. 1 lett. b), riconosciuti ai sensi dell'art. 26, a parità di requisiti e qualifiche e salvaguardando gli obiettivi aziendali, danno la precedenza alle persone residenti, purché idonee a occupare il posto di lavoro offerto; essi tengono in debita considerazione le candidature di chi si trova in disoccupazione o al beneficio dell'assistenza.
