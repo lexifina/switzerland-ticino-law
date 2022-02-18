@@ -1,4 +1,4 @@
-# Art. 34ter principi e misure di riequilibrio finanziario
+# Art. 34ter Freno ai disavanzi: principi e misure di riequilibrio finanziario
 1Di principio, il preventivo e il consuntivo di gestione corrente devono essere presentati in equilibrio.
 2 Tenuto conto della situazione economica e di eventuali bisogni finanziari eccezionali, possono essere preventivati dei disavanzi entro i limiti definiti dalla legge.
 3 I limiti definiti dalla legge vanno rispettati attraverso misure di contenimento della spesa, di aumento dei ricavi o di adeguamento del coefficiente d'imposta cantonale.

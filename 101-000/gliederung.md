@@ -3,7 +3,7 @@
 ## TITOLO III Diritti e obiettivi sociali
 ## TITOLO IV Organismi sociali
 ## TITOLO V Diritti e doveri politici
-## TITOLO VBIS Regime finanziario
+## TITOLO Vbis Regime finanziario
 ## TITOLO VI Elezioni, iniziativa popolare, referendum e revoca
 ## TITOLO VII Relazioni con la Confederazione, i Cantoni e i Paesi limitrofi
 ## TITOLO VIII Autorità
