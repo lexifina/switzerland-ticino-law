@@ -1,4 +1,4 @@
-# Art. 31b condizioni
+# Art. 31b Deroga: condizioni
 1In caso di grave crisi economica o di bisogni finanziari eccezionali, il limite di cui all'art. 31a cpv. 2 può essere aumentato fino al 5%.
 2 L'aumento del limite di cui al cpv. 1 deve essere approvato dalla maggioranza assoluta dei membri del Gran Consiglio.
 3 Per grave crisi economica, si intende una situazione nella quale le previsioni del PIL nazionale allestite dalla SECO per l'anno di riferimento del preventivo indicano una riduzione reale del PIL di almeno lo 0.5% rispetto all'anno precedente.

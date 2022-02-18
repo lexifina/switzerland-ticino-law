@@ -8,6 +8,6 @@ b) di natura tecnico-finanziaria, in collaborazione con un perito esterno.
 5 I compiti e i mandati particolari del Controllo cantonale delle finanze devono tener conto delle competenze e delle risorse a disposizione e dell'attività regolare annuale pianificata.
 6 Se un mandato di controllo esige particolari conoscenze tecniche, il Controllo cantonale delle finanze può chiedere l'aiuto di esperti.
 7 Il direttore del Controllo cantonale delle finanze è nominato dal Consiglio di Stato, con consultazione della Commissione della gestione e delle finanze del Gran Consiglio.
-8 Il Regolamento del Controllo cantonale delle finanze è emanato dal Consiglio di Stato con il preavviso della Commissione della gestione e delle finanze del Gran Consiglio.
+8 Il regolamento del Controllo cantonale delle finanze è emanato dal Consiglio di Stato con il preavviso della Commissione della gestione e delle finanze del Gran Consiglio.
 9 Il Controllo cantonale delle finanze tratta direttamente con il Consiglio di Stato, le autorità, i servizi, le aziende, gli enti sottoposti al suo controllo e con la Commissione della gestione e delle finanze del Gran Consiglio, previa informazione al Consiglio di Stato.
 10 Il Controllo cantonale delle finanze elabora annualmente il proprio programma d'attività e il rapporto dell'attività svolta che trasmette per discussione al Consiglio di Stato e alla Commissione della gestione del Gran Consiglio.
