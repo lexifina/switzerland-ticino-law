@@ -1,3 +1,2 @@
 # Art. 1e
-Il Consiglio di Stato, in casi eccezionali e solo se l'interesse generale lo esige, può autorizzare un proprio membro - in quanto ciò non ne aggravi in modo eccessivo l'onere degli impegni
-- a far parte della direzione o dell'amministrazione di istituti o di aziende a carattere parastatale, misto o privato, se il Cantone possiede una parte del capitale sociale o un diritto di partecipazione agli utili.
+Il Consiglio di Stato, in casi eccezionali e solo se l'interesse generale lo esige, può autorizzare un proprio membro - in quanto ciò non ne aggravi in modo eccessivo l'onere degli impegni - a far parte della direzione o dell'amministrazione di istituti o di aziende a carattere parastatale, misto o privato, se il Cantone possiede una parte del capitale sociale o un diritto di partecipazione agli utili.
