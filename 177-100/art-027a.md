@@ -1,2 +1,3 @@
 # Art. 27a Obbligo di denuncia
-Ogni magistrato che, nell'esercizio delle sue funzioni, ha notizia di un reato di azione pubblica, è tenuto a farne immediato rapporto al Ministero pubblico e a trasmettergli i verbali e gli atti relativi.
+1Il magistrato è tenuto a denunciare alle autorità di perseguimento penale i crimini e i delitti perseguibili d'ufficio che constata o gli sono segnalati nell'esercizio della sua funzione.
+2 Sono fatti salvi gli obblighi di denuncia previsti da altre leggi.
