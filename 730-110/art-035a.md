@@ -7,3 +7,4 @@ d) operano come rappresentanti dell'offerente o hanno operato nella medesima ope
 e) non dispongono a motivo di altre circostanze dell'indipendenza necessaria all'esecuzione di commesse pubbliche.
 2 La richiesta di ricusa deve essere presentata immediatamente dopo la scoperta del motivo di ricusa.
 3 Sulle richieste di ricusa statuisce il committente, con l'esclusione della persona interessata.
+4 Nei concorsi e nei mandati di studio in parallelo, il committente può prevedere nel bando l'esclusione dalla procedura di aggiudicazione degli offerenti che presentano un motivo di ricusa in relazione a un membro della giuria.
