@@ -1,0 +1,2 @@
+# Art. 6bis Fideiussione
+Il Consiglio di Stato definisce, per settore, la percentuale massima della fideiussione conformemente ai criteri espressi nell'ordinanza COVID-19 casi di rigore. La fideiussione può raggiungere al massimo il 25 per cento della cifra d'affari annua computabile e un ammontare massimo di 1'000'000 di franchi.
