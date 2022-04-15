@@ -2,4 +2,3 @@
 1Il completamento del ciclo di formazione indicato nei capoversi 2, 3 e 5 dell'art. 37c permette di proporre la nomina quale ispettore al Consiglio di Stato. In caso contrario verrà esaminato il prolungo del periodo di IP o l'interruzione del contratto di lavoro o in casi eccezionali l'esame del proseguo del rapporto d'impiego quale gendarme.
 2 Nel caso in cui non dovesse essere organizzata una SPG durante il periodo dei due anni di IP, l'autorità di nomina potrà incaricare per un periodo determinato gli ispettori in formazione, quali ispettori in attesa della nomina definitiva.
 3 Dopo la nomina a ispettore essi possono essere tenuti ad assolvere un periodo di stage presso una polizia confederata, nonché a seguire tutta la formazione continua e specialistica prevista per la polizia giudiziaria.
-7) attribuzione senza nomina

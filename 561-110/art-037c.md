@@ -6,4 +6,3 @@
 5 L'introduzione alla professione è finalizzata all'acquisizione delle necessarie conoscenze e competenze professionali, per il tramite di periodi di pratica in diversi ambiti di polizia, nonché presso le autorità giudiziarie. Durante questo periodo l'ispettore in formazione è tenuto a portare a termine con successo la formazione interna della Scuola di polizia giudiziaria (SPG).
 6 Il non superamento dell'esame finale della SPG può implicare, con il consenso dell'autorità di nomina, il prolungo dello statuto di ispettore in formazione, in attesa della successiva sessione d'esami.
 7 Per le ulteriori disposizioni si applicano le normative in vigore per la SCP.
-5) nomina aspiranti ispettori selezionati tramite concorso interno
