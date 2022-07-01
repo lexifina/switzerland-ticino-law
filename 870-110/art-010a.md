@@ -6,7 +6,7 @@ b) agli organi di altre assicurazioni sociali, federali o cantonali, in quanto l
 a) alle autorità istruttorie penali, qualora ne necessitino per denunciare o impedire un crimine;
 b) ai tribunali civili, qualora ne necessitino per giudicare una controversia relativa al diritto di famiglia o successorio;
 c) ai tribunali penali e alle autorità istruttorie penali, qualora ne necessitino per accertare un crimine o un delitto;
-d) agli uffici d'esecuzione, conformemente agli articoli 91, 163 e 222 della legge federale dell'11 aprile 1889 sulla esecuzione e sul fallimento;
+d) agli uffici d'esecuzione, conformemente agli articoli 91, 163 e 222 della legge federale sulla esecuzione e sul fallimento dell'11 aprile 1889;
 e) alle autorità fiscali, qualora ne necessitino per l'applicazione delle leggi in materia fiscale.
 3 I dati personali possono essere altresì trasmessi a altri organi pubblici quando:
 a) l'organo responsabile vi è obbligato o autorizzato dalla legge, oppure
@@ -15,5 +15,5 @@ b) l'organo che riceve i dati personali prova che essi sono necessari per l'adem
 5 Negli altri casi, conformemente all'art. 31 della legge, i dati possono essere comunicati a terzi alle seguenti condizioni:
 a) per i dati non personali: se la comunicazione è giustificata da un interesse preponderante;
 b) per i dati personali: se, nel caso specifico, la persona interessata ha dato il suo consenso scritto o, qualora non sia possibile ottenerlo, le circostanze permettono di presumere che la comunicazione dei dati sia nell'interesse dell'utente.
-6 I dati sono di norma comunicati per iscritto e gratuitamente. Un emolumento può essere riscosso qualora sia necessario un particolare dispendio di lavoro, segnatamente siano necessarie numerose copie o altre riproduzioni o ricerche particolari. L'ammontare dell'emolumento corrisponde agli importi fissati negli art. 14 e 16 dell'ordinanza del 10 settembre 1969 sulle tasse e spese nella procedura amministrativa (RS 172.041.0). L'emolumento può essere ridotto o condonato in caso di indigenza del richiedente o per altri gravi motivi.
+6 I dati sono di norma comunicati per iscritto e gratuitamente. Un emolumento può essere riscosso qualora sia necessario un particolare dispendio di lavoro, segnatamente siano necessarie numerose copie o altre riproduzioni o ricerche particolari. L'ammontare dell'emolumento corrisponde agli importi fissati negli art. 14 e 16 dell'ordinanza sulle tasse e spese nella procedura amministrativa del 10 settembre 1969 (RS 172.041.0). L'emolumento può essere ridotto o condonato in caso di indigenza del richiedente o per altri gravi motivi.
 7 Per quanto non previsto dal presente regolamento, si applica la legge sulla protezione dei dati personali del 9 marzo 1987.
