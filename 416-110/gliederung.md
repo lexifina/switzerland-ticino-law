@@ -29,7 +29,7 @@
 ## Capitolo terzo Provvedimenti per regioni e gruppi sfavoriti
 ## Capitolo quarto Istituzione e compiti
 ## Capitolo quinto Servizio di documentazione e sussidi didattici
-## Capitolo sesto Servizio Lingue e stage all’estero
+## Capitolo sesto
 ## Capitolo settimo Controllo della qualità
 ## TITOLO VI Certificazioni
 ## Capitolo primo Titoli cantonali
