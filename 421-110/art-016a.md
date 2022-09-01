@@ -1,3 +1,2 @@
 # Art. 16a
 I pagamenti ai Cantoni universitari dei contributi del Cantone Ticino previsti dall'accordo intercantonale sulle università e dall'accordo intercantonale sulle scuole universitarie professionali in vigore, nonché quelli agli organi intercantonali previsti dall'accordo intercantonale nel settore delle scuole universitarie svizzere e dalla convenzione tra la Confederazione e i cantoni sulla cooperazione nel settore universitario in vigore, avvengono su autorizzazione dell'Ufficio del controlling e degli studi universitari della Divisione della cultura e degli studi universitari del Dipartimento.
-Norme finali
