@@ -1,6 +1,6 @@
 # Regolamento
 delle scuole professionali
-(del 1° luglio 2015)
+del 1° luglio 2015 (stato 1° novembre 2022)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 visti:
 – la legge federale sulla formazione professionale del 13 dicembre 2002;
