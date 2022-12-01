@@ -1,6 +1,6 @@
 # Legge
 cantonale sulla pesca e sulla protezione dei pesci e gamberi indigeni
-(del 26 giugno 1996)
+(LCSP)1 del 26 giugno 1996 (stato 1° dicembre 2022)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 visti:
 - la legge federale sulla pesca del 21 giugno 1991 e l'ordinanza di applicazione del 24 novembre 1993;
