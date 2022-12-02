@@ -1,4 +1,4 @@
-# Art. 44b
+# Art. 44b b) Commissione cantonale per la protezione antincendio
 1La Commissione cantonale per la protezione antincendio (in seguito CCPA) è nominata dal Consiglio di Stato per un periodo di quattro anni ed è composta da un presidente e otto membri rappresentanti dei seguenti enti o associazioni:
 – Associazione Svizzera d'Assicurazioni;
 – Associazione Tecnici Riconosciuti Antincendio;

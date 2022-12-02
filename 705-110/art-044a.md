@@ -6,5 +6,3 @@ b) effettua, a scadenze regolari, controlli sul rispetto delle prescrizioni, sul
 c) riceve il certificato di collaudo ai sensi dell'art. 44e ai fini del rilascio del permesso di abitabilità (art. 49 cpv. 2 LE).
 3 …
 4 Le spese per le consulenze e i controlli supplementari e/o successivi alla prima verifica sono a carico dell'istante conformemente all'art. 19 cpv. 2 della legge.
-b) Commissione cantonale per la protezione
-antincendio
