@@ -4,4 +4,3 @@
 3 Il diritto al rimborso si estingue se non è fatto valere dal datore di lavoro entro 6 mesi dalla conclusione della formazione autorizzata.
 Assegno d’inserimento professionale
 (art. 5 L-rilocc)
-a) beneficiari

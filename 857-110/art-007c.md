@@ -1,5 +1,5 @@
 # Art. 7c a) condizioni relative al datore di lavoro
-1 L'incentivo di cui all'art. 4a cpv. 2 L-rilocc è concesso:
+1L'incentivo di cui all'art. 4a cpv. 2 L-rilocc è concesso:
 a) a aziende attive nei settori economici indicati nell'allegato 1 e stabilimenti di impresa siti nelle regioni definite nell'allegato 1a;
 b) per assunzioni a tempo indeterminato nella professione in cui il disoccupato si è formato;
 c) per occupazioni con una retribuzione conforme ai contratti collettivi di lavoro, ai contratti normali di lavoro, o in loro assenza, ai salari d'uso.

@@ -1,3 +1,4 @@
 # Art. 5b
 …
-Incentivo all'assunzione (art. 3 L-rilocc)
+Incentivo all’assunzione
+(art. 3 L-rilocc)
