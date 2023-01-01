@@ -1,7 +1,7 @@
 # Regolamento
 del Fondo per le energie rinnovabili
 (RFER)
-(del 29 aprile 2014)
+del 29 aprile 2014 (Stato 1° gennaio 2023)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 visti:
 – gli articoli 8b, 8c e 8e della legge cantonale sull'energia dell'8 febbraio 1994 (Len);
