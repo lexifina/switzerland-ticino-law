@@ -6,5 +6,5 @@ visti:
 – la legge federale sulla formazione professionale del 13 dicembre 2002;
 – l'ordinanza sulla maturità professionale federale del 24 giugno 2009;
 – la legge della scuola del 1° febbraio 1990;
-– la legge sulle scuole professionali del 2 ottobre 1996;
+– la legge sulle scuole professionali del 2 ottobre 1996,
 de c r e t a :
