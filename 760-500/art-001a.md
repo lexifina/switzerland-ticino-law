@@ -1,6 +1,3 @@
-# Art. 1a a) bonus/malus
-1L'imposta di cui alle lettere c) ed e) dell'art. 1 cpv. 1 per i veicoli di nuova immatricolazione viene moltiplicata per un coefficiente (bonus/malus).
-2 Il coefficiente di moltiplicazione è compreso tra 0.2 e 1.8 ed è stabilito dal Consiglio di Stato in base alle emissioni di CO2 del tipo di veicolo.
-3 Il Consiglio di Stato definisce i casi particolari e fissa per gli stessi delle apposite modalità di applicazione.
-4 Alle emissioni di CO2 per tipo di veicolo possono essere aggiunte le emissioni generate nella produzione di carburante o dell'energia di trazione.
-5 Il Consiglio di Stato verifica periodicamente, almeno ogni due anni, il coefficiente di moltiplicazione alfine di garantire la neutralità finanziaria.
+# Art. 1a Utilizzo del gettito e misure di adeguamento del gettito
+1Il gettito dell'imposta di circolazione, in linea di principio, non può eccedere i costi della costruzione e della manutenzione delle strade, dedotte le spese di funzionamento.
+2 Se l'equilibrio tra gettito e costi di costruzione e di manutenzione non può essere ristabilito nel breve periodo, il Consiglio di Stato propone al Gran Consiglio delle modifiche legislative di adeguamento.
