@@ -1,6 +1,6 @@
 # Costituzione
 della Repubblica e Cantone Ticino
-(del 14 dicembre 1997)
+del 14 dicembre 1997 (stato 1° gennaio 2023)
 PREAMBOLO
 Il popolo ticinese
 - allo scopo di garantire la convivenza pacifica nel rispetto della dignità umana, delle libertà fondamentali e della giustizia sociale;
