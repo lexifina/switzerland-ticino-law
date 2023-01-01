@@ -8,5 +8,4 @@ e) il riordino comprensoriale nel contesto di una pianificazione territoriale co
 f) la conservazione e la valorizzazione del patrimonio culturale legato al territorio.
 2 Possono essere oggetto di incentivi anche altri interventi di rilevante interesse paesaggistico e gli atti preparatori per la concretizzazione dei progetti.
 3 Gli incentivi stanziati per il singolo programma non possono superare l'importo erogato dal Comune.
-IV) Domanda preliminare
-(art. 27a cpv. 1 legge)
+IV) Domanda preliminare (art. 27a cpv. 1 legge)

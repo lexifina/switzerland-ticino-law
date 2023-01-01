@@ -6,5 +6,4 @@ b) il progetto e il preventivo definitivo;
 c) il credito stanziato, con termine entro il quale esso decade se non utilizzato, e il piano di finanziamento.
 3 Alla domanda vanno inoltre allegate le risoluzioni dei legislativi degli enti coinvolti, i relativi messaggi e i rapporti commissionali.
 4 La Commissione di cui all'art. 27b cpv. 1 della legge sottopone con proprio preavviso la decisione di incentivo al Dipartimento delle istituzioni.
-VI) Versamento degli incentivi
-(art. 27b cpv. 2 legge)
+VI) Versamento degli incentivi (art. 27b cpv. 2 legge)

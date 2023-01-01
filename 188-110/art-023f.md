@@ -6,5 +6,4 @@ c) un progetto d'accordo programmatico fra le parti elaborato sotto forma di con
 d) un piano di finanziamento provvisorio comprendente la quota di partecipazione degli enti coinvolti, gli eventuali sussidi o partecipazioni esterne che si presumono, rispettivamente l'importo mancante;
 e) l'autocertificazione di funzionalità amministrativa ed operativa da parte del Patriziato capofila.
 2 La Commissione di cui all'art. 27b cpv. 1 della legge esamina la domanda; essa prende posizione in via provvisoria e non vincolante sulla presumibile entità dell'incentivo; la presa di posizione è comunicata all'ente capofila e può contenere condizioni vincolanti per la concessione definitiva dell'incentivo.
-V) Domanda definitiva; decisione
-(art. 27a cpv. 1 legge)
+V) Domanda definitiva; decisione (art. 27a cpv. 1 legge)
