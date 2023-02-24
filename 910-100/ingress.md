@@ -1,6 +1,6 @@
 # Legge
 sull’agricoltura
-(del 3 dicembre 2002)
+(LAgr)1 del 3 dicembre 2002 (stato 24 febbraio 2023)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 - richiamata la legge federale sull'agricoltura e le relative norme di applicazione;
 - visto il messaggio 6 giugno 2001 n. 5125 del Consiglio di Stato;
