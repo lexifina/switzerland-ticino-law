@@ -1,6 +1,6 @@
 # Regolamento
 della scuola media
-(del 30 maggio 2018)
+del 30 maggio 2018 (stato 10 marzo 2023)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 visti:
 – la legge sulla scuola media del 21 ottobre 1974;
