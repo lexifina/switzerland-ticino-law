@@ -1,5 +1,5 @@
 # Regolamento
-del Fondo Sport-toto1 (del 18 gennaio 2011)
+del Fondo Sport-toto1 del 18 gennaio 2011 (stato 31 marzo 2023)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 richiamati:
 – la legge federale concernente le lotterie e le scommesse professionalmente organizzate;
