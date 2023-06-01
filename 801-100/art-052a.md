@@ -1,5 +1,5 @@
 # Art. 52a d) protezione dei giovani
-1La distribuzione e la vendita di tabacco e dei suoi derivati a giovani minori di 18 anni è vietata.
+La distribuzione e la vendita a giovani minori di 18 anni di prodotti del tabacco, prodotti contenenti succedanei del tabacco o prodotti simili per contenuto o modalità di consumo è vietata.
 2 Il personale di vendita è tenuto a controllare l'età del cliente, esigendo la presentazione di un documento di identità ufficiale, qualora vi fossero dubbi sull'età dello stesso.
-3 La distribuzione e la vendita di tabacco e dei suoi derivati tramite distributori automatici è autorizzata unicamente a condizione che il rispetto del divieto sancito dal cpv. 1 sia garantito da adeguate misure di controllo.
-Autorizzazione e vigilanza
+3 La distribuzione e la vendita di prodotti del tabacco, prodotti contenenti succedanei del tabacco o prodotti simili per contenuto o modalità di consumo tramite distributori automatici è autorizzata unicamente a condizione che il rispetto del divieto sancito dal capoverso 1 sia garantito da adeguate misure di controllo.
+4 I capoversi 1, 2 e 3 sono parimenti applicabili alla distribuzione e la vendita a giovani minori di 18 anni di dispositivi che permettono di inalare le emissioni di un liquido con o senza nicotina riscaldato tramite una fonte di energia esterna, segnatamente le sigarette elettroniche o i prodotti simili per contenuto o modalità di consumo.
