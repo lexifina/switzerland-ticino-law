@@ -1,3 +1,2 @@
-# Art. 26b Norma transitoria riguardante la modifica dell'art. 14
-1Le autorizzazioni alla denominazione universitaria già concesse in base alle precedenti normative a scuole non ancora accreditate dalle autorità nazionali o intercantonali competenti decadono automaticamente dopo 3 mesi dall'entrata in vigore del nuovo art. 14.
-2 Alle procedure pendenti al momento dell'entrata in vigore del medesimo articolo si applica il nuovo diritto.
+# Art. 26b
+Per gli enti con sede e/o operanti sul territorio cantonale che non dispongono dell'accreditamento istituzionale secondo la LPSU, la protezione dei titoli di cui all'art. 14a e le corrispondenti sanzioni penali sono rette dal diritto anteriore fino a tre anni dall'entrata in vigore della modifica del 13 marzo 2023

@@ -10,9 +10,9 @@ f) del teatro;
 g) della musica;
 h) delle formazioni sanitarie;
 i) della formazione dei docenti (Alta scuola pedagogica).
-3 Per il settore della formazione dei docenti, i rapporti con le scuole del territorio e con gli uffici scolastici sono retti da un'apposita Convenzione stipulata fra il Dipartimento competente e la SUPSI. La Convenzione stabilisce le modalità di cooperazione negli ambiti seguenti:
+3 Per il settore della formazione dei docenti, i rapporti con le scuole del territorio e con gli uffici scolastici sono retti da un'apposita convenzione stipulata fra il Dipartimento competente e la SUPSI. La convenzione stabilisce le modalità di cooperazione negli ambiti seguenti:
 a) svolgimento delle pratiche professionali e della parte applicativa della formazione;
 b) accesso a dati, classi e docenti per la ricerca;
 c) sviluppo della formazione continua e aggiornamento per i docenti delle scuole;
 d) coordinamento fra domanda e offerta per le abilitazioni all'insegnamento in materie specifiche.
-42
+45
