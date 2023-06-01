@@ -1,5 +1,5 @@
-# Art. 1e art. 31 cpv. 4 legge
-12 1La prossimità fra le autorità regionali di protezione è stabilita come segue:
+# Art. 1e
+9 1La prossimità fra le autorità regionali di protezione è stabilita come segue:
 – per le ARP 1 e 2, l'ARP 3;
 – per l'ARP 3, l'ARP 2;
 – per le ARP 4 e 6, l'ARP 5;
@@ -10,3 +10,4 @@
 – per le ARP 16, 17 e 18, l'ARP 15.
 2 L'Autorità regionale viciniora delibera a numero completo (art. 10 cpv. 1 LPMA); il delegato comunale è quello del Comune sede dell'ARP.
 2. Contributo cantonale
+(art. 16 legge)
