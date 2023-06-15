@@ -1,7 +1,7 @@
 # Legge
 sull’esercizio della prostituzione
 (LProst)
-(del 22 gennaio 2018)
+del 22 gennaio 2018 (stato 15 giugno 2023)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 – richiamato l'art. 199 del Codice penale svizzero;
 – visto il messaggio 16 gennaio 2013 n. 6734 del Consiglio di Stato;
