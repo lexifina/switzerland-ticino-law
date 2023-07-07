@@ -9,6 +9,7 @@
 ## Capitolo primo Principi generali
 ## Capitolo secondo Copie di prima e ulteriore edizione
 ## Capitolo terzo Brevetti notarili
+## Capitolo terzobis Pubblicazione dei testamenti: avviso agli eredi e notifica agli interessati
 ## Capitolo quarto Rubriche notarili
 ## TITOLO IX Archivio notarile
 ## TITOLO X Disposizioni varie
