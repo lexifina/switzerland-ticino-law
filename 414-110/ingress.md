@@ -1,6 +1,6 @@
 # Regolamento
 delle scuole medie superiori
-del 15 giugno 2016 (stato 1° giugno 2023)
+del 15 giugno 2016 (stato 1° agosto 2023)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 visti:
 – la legge sulle scuole medie superiori del 26 maggio 1982;
