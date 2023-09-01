@@ -12,8 +12,7 @@
 ## Sezione 4 Piano particolareggiato
 ## Sezione 5 Piano di quartiere
 ## Sezione 6 Piano cantonale con autorizzazione a costruire
-## Capitolo secondo Salvaguardia della pianificazione
-## Capitolo terzo Edificabilità dei fondi
+## Sezione 7 Disposizioni transitorie concernenti la produzione di elettricità supplementare mediante
 ## Sezione 1 Principio ed eccezioni
 ## Sezione 2 Generatori di traffico
 ## TITOLO III Strumenti di politica fondiaria e promozionale
