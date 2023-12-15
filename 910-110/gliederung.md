@@ -2,7 +2,6 @@
 ## TITOLO II Miglioramenti strutturali
 ## TITOLO III
 ## TITOLO IV Promozione dello smercio
-## Sezione. Contributi versati dai non membri
 ## TITOLO V Avvicendamento generazionale
 ## TITOLO VI Conversione delle aziende all’agricoltura biologica
 ## TITOLO VII Pagamenti diretti
