@@ -1,7 +1,7 @@
 # Art. 79b
 1In funzione e a seconda delle opere previste, il piano cantonale si compone in particolare:
 a) del piano dell'utilizzazione sotto forma di geodato digitale;
-b) di una relazione architettonica e tecnica atta a chiarire il genere delle opere previste;
+b) di una relazione tecnica;
 c) di planimetrie, piante, prospetti e sezioni in scala per una completa descrizione delle opere previste;
 d) di una valutazione degli effetti sull'ambiente, completa di perizie specialistiche che ne dimostrino la conformità con il diritto applicabile;
 e) di un'analisi, in caso di demolizioni, sulla presenza di sostanze nocive e delle modalità di smaltimento previste;

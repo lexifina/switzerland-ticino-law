@@ -1,5 +1,5 @@
 # Art. 79d Istanza
-L'istante presenta alla Sezione amministrativa immobiliare del Dipartimento del territorio (di seguito SAI) il progetto di piano, accompagnato almeno da:
+L'istante presenta alla SAI il progetto di piano, accompagnato almeno da:
 a) una relazione sull'opera;
 b) planimetrie, piante, prospetti e sezioni in scala adeguata per comprendere natura e genere dell'opera ed i suoi impatti;
 c) un piano con l'indicazione degli accessi e degli allacciamenti alle infrastrutture;
