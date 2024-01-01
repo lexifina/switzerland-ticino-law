@@ -1,8 +1,8 @@
-## Capitolo I Organizzazione e competenze
-## Capitolo II Guardiani di animali (art. 8-11 OPAn)
-## Capitolo III Custodia, commercio e pubblicità con animali (art. 35-51 OPAn)
-## Capitolo IV Esperimenti su animali (art. 58-64 OPAn)
-## Capitolo V Registro di controllo
-## Capitolo VI Competizioni sportive
-## Capitolo VII Società per la protezione degli animali
-## Capitolo VIII Disposizioni finali
+## Capitolo primo Organizzazione e competenze
+## Capitolo secondo
+## Capitolo terzo Disposizioni generali
+## Capitolo quarto Annuncio e richiesta
+## Capitolo quinto Contenuto del registro e conservazione
+## Capitolo sesto Competizioni sportive
+## Capitolo settimo Società per la protezione degli animali
+## Capitolo ottavo Disposizioni finali
