@@ -1,4 +1,0 @@
-# Art. 44c Norme tecniche applicabili
-1Sono applicabili le prescrizioni di protezione antincendio dichiarate vincolanti nel settore specifico dal concordato intercantonale concernente l'eliminazione degli ostacoli tecnici al commercio del 23 ottobre 1998 (CIOTC). Nei campi specifici, sono pure applicabili le normative emanate da associazioni professionali dichiarate vincolanti dalla AICAA.
-2 In caso di contrasto fra diverse norme e direttive tecniche, fa stato quella che offre il maggior grado di sicurezza. In caso di contestazione la CCPA decide in merito, sentite le parti, entro 30 giorni.
-3 …
