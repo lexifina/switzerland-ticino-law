@@ -1,7 +1,7 @@
 # Legge
 cantonale di applicazione della legge federale sulla protezione dell’ambiente
 (LALPAmb)
-(del 24 marzo 2004)
+del 24 marzo 2004 (stato 1° gennaio 2024)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 - richiamata la legge federale sulla protezione dell'ambiente del 7 ottobre 1983;
 - visto il messaggio 19 aprile 2000 n. 4998 del Consiglio di Stato;
