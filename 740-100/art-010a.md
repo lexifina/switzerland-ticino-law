@@ -1,0 +1,2 @@
+# Art. 10a Fabbisogno di energia termica negli edifici esistenti
+Edifici abitativi esistenti soggetti a sostituzione della centrale primaria di produzione di energia termica, inclusa la sostituzione di componenti rilevanti di essa (ad esempio il bruciatore), devono garantire che l'energia da fonti non rinnovabili copra al massimo il 90% dello specifico fabbisogno di riferimento di energia termica.
