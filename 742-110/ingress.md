@@ -1,7 +1,8 @@
 # Regolamento
 della legge cantonale di applicazione della legge federale
-sull’approvvigionamento elettrico (RLA-LAEl)
-(del 23 novembre 2010)
+sull’approvvigionamento elettrico
+(RLA-LAEl)
+del 23 novembre 2010 (stato 23 febbraio 2024)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 vista la legge cantonale del 30 novembre 2009 di applicazione della legge federale sull'approvvigionamento elettrico del 23 marzo 2007,
 de c r e t a :
