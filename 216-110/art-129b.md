@@ -6,4 +6,3 @@
 – i fondi oggetto di una transazione;
 – le proprietà per piani (PPP) oggetto di una transazione.
 2 La banca dati può contenere e gestire ulteriori informazioni sui fondi, specie di natura pianificatoria, provenienti da fonti pubbliche e da altre autorità, in particolare dall'Ufficio stima.
-Gestione della banca dati e autorizzazione
