@@ -1,6 +1,5 @@
-# Art. 12a
-b2) per gli edifici protetti secondo il PUC-PEIP (rustici)
-1 Per le domande concernenti edifici meritevoli di conservazione (categorie 1a, 1c, 1d), gli edifici meritevoli già trasformati (categoria 3) e le ricostruzioni di edifici diroccati ricostruibili (categoria 1b) secondo l'inventario comunale degli edifici fuori della zona edificabile (IEFZE) all'interno del Piano di utilizzazione cantonale degli edifici ed impianti protetti (PUC-PEIP), a dipendenza della natura dell'intervento, i progetti devono comprendere:
+# Art. 12a b2) per gli edifici protetti secondo il PUC-PEIP (rustici)
+1Per le domande concernenti edifici meritevoli di conservazione (categorie 1a, 1c, 1d), gli edifici meritevoli già trasformati (categoria 3) e le ricostruzioni di edifici diroccati ricostruibili (categoria 1b) secondo l'inventario comunale degli edifici fuori della zona edificabile (IEFZE) all'interno del Piano di utilizzazione cantonale degli edifici ed impianti protetti (PUC-PEIP), a dipendenza della natura dell'intervento, i progetti devono comprendere:
 a) i piani di rilievo e i piani di progetto:
 – delle piante di ogni piano, con le misure principali e la destinazione di ogni vano (scala 1:50),
 – delle sezioni di ogni corpo dell'edificio, da cui si possano dedurre le quote dell'opera e quella dei singoli piani, nonché del terreno naturale circostante (scala 1:50),
