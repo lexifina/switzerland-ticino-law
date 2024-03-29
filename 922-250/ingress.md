@@ -1,6 +1,6 @@
 # Regolamento
 per l’ottenimento del certificato d’abilitazione alla caccia
-(del 13 gennaio 1993)
+del 13 gennaio 1993 (stato 29 marzo 2024)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 richiamati:
 - la legge federale sulla caccia e la protezione dei mammiferi e degli uccelli selvatici del 20 giugno 1986 (LCP);
