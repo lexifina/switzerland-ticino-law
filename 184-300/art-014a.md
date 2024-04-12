@@ -4,4 +4,3 @@
 3 L'autofinanziamento globale è dato dall'autofinanziamento potenziale annuo moltiplicato per un fattore che dipende dall'entità dell'investimento secondo quanto stabilito dal regolamento.
 4 Per le opere relative a servizi finanziati attraverso il prelievo di tasse causali l'aiuto sarà determinato in modo da contenere entro limiti sopportabili le tasse a carico dell'utenza.
 5 L'impegno finanziario per gli aiuti di cui al cpv. 1 è determinato ogni 4 anni dal Gran Consiglio, all'inizio della legislatura.
-Contributo ricorrente per gli oneri
