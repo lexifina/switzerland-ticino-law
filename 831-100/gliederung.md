@@ -1,7 +1,7 @@
-## Capitolo I Scopo e principi generali
-## Capitolo II Competenze
-## Capitolo III Pianificazione cantonale in materia di protezione dell’ambiente
-## Capitolo IV Misure:
-## Capitolo V Smaltimento dei rifiuti
-## Capitolo VI Disposizioni esecutive e procedurali
-## Capitolo VII Disposizioni transitorie e finali
+## Capitolo primo Scopo e principi generali
+## Capitolo secondo Competenze
+## Capitolo terzo Pianificazione cantonale in materia di protezione dell’ambiente
+## Capitolo quarto Misure:
+## Capitolo quinto Smaltimento dei rifiuti
+## Capitolo sesto Disposizioni esecutive e procedurali
+## Capitolo settimo Disposizioni transitorie e finali
