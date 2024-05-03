@@ -1,27 +1,27 @@
-## TITOLO I Generalità
+## TITOLO I Competenza generale
 ## TITOLO II Miglioramenti strutturali
-## TITOLO III
+## TITOLO III Applicazione
 ## TITOLO IV Promozione dello smercio
+## Sezione. Misure di solidarietà
 ## TITOLO V Avvicendamento generazionale
 ## TITOLO VI Conversione delle aziende all’agricoltura biologica
-## TITOLO VII Pagamenti diretti
+## TITOLO VII Declività
 ## TITOLO VIII
 ## Capitolo primo
-## Capitolo secondo Interconnessione
+## Capitolo secondo Promotori
 ## Capitolo terzo Importo dei contributi
-## TITOLO IX Esame cantonale per l’esercizio dell’agriturismo
-## TITOLO X Protezione dei vegetali
-## Sezione. Organismi nocivi per il settore agricolo
+## TITOLO IX
+## TITOLO X Servizio fitosanitario
 ## TITOLO XI Obbligo di tollerare la gestione dei terreni incolti
-## TITOLO XII Allevamento di animali
+## TITOLO XII
 ## TITOLO XIII Condotte veterinarie
 ## TITOLO XIV Assicurazione del bestiame
 ## TITOLO XV Organizzazioni agricole
 ## TITOLO XVI Dati delle aziende agricole
-## TITOLO XVII Protezione giuridica, misure amministrative e disposizioni penali
+## TITOLO XVII
 ## Capitolo primo Protezione giuridica
 ## Capitolo secondo Misure amministrative
-## Capitolo terzo
+## Capitolo terzo Decisioni
 ## TITOLO XVIII Disposizioni finali
 ## Capitolo primo Esecuzione
 ## Capitolo secondo Tasse

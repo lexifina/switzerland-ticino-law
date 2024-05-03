@@ -1,8 +1,8 @@
-# Art. 70b Procedura
-Per ottenere i contributi, il richiedente:
-a) segnala tempestivamente al Servizio fitosanitario la presenza dell'organismo nocivo particolarmente pericoloso;
-b) attende l'intimazione dell'ordine della misura di lotta da parte del Servizio fitosanitario;
-c) invia al Servizio fitosanitario una domanda di contributo cantonale allegando il preventivo di spesa per l'intervento, comprensivo del numero di piante e della superficie interessati dal provvedimento;
-d) procede all'esecuzione delle misure di lotta ordinate;
-e) invia al Servizio fitosanitario il resoconto delle spese e dei relativi giustificativi.
+# Art. 70b Procedura per la richiesta e la concessione di contributi
+Per ottenere la concessione di contributi dal Servizio fitosanitario, il richiedente deve:
+a) segnalare tempestivamente la presenza dell'organismo nocivo particolarmente pericoloso;
+b) inviare una richiesta di concessione di contributi allegando il preventivo dei costi delle misure;
+c) attendere che esso ordini le misure;
+d) procedere all'esecuzione delle misure di lotta ordinate, in accordo e sotto la supervisione del Servizio fitosanitario; e
+e) inviare il resoconto dei costi con i relativi documenti giustificativi.
 Costi trattamenti obbligatori
