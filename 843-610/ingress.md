@@ -1,7 +1,7 @@
 # Regolamento
 della legge cantonale sul salario minimo
 (RLSM)
-(del 18 novembre 2020)
+del 18 novembre 2020 (stato 23 agosto 2024)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 vista la legge sul salario minimo dell'11 dicembre 2019 (di seguito LSM),
 de c r e t a :
