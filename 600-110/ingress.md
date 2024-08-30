@@ -1,6 +1,6 @@
 # Regolamento
 sulla gestione finanziaria dello Stato
-(RGF)1 del 21 dicembre 2004 (stato 25 agosto 2023)
+(RGF)1 del 21 dicembre 2004 (stato 30 agosto 2024)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 vista la legge sulla gestione e sul controllo finanziario dello Stato del 20 gennaio 1986 (LGF),
 de c r e t a :
