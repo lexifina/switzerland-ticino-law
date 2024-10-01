@@ -1,9 +1,6 @@
 # Legge
 sull’EOC (Ente ospedaliero cantonale)
-(del 19 dicembre 2000)
+del 19 dicembre 2000 (stato 1° ottobre 2024)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
-- vista la Legge sugli ospedali pubblici del 20 dicembre 1982;
-- visto il messaggio 19 gennaio 2000 no. 4965 del Consiglio di Stato;
-- visto il rapporto 5 dicembre 2000 no. 4965 R della Commissione della gestione e delle finanze,
-d ecret a:
-Ragione sociale,
+vista la legge sugli ospedali pubblici del 20 dicembre 1982; visto il messaggio del Consiglio di Stato n. 4965 del 19 gennaio 2000; visto il rapporto della Commissione della gestione e delle finanze n. 4965R del 5 dicembre 2000,
+de c r e t a :
