@@ -1,7 +1,7 @@
 # Regolamento
 di applicazione dell’ordinanza sulla prevenzione e lo smaltimento dei rifiuti
 (ROPSR)
-del 30 giugno 2021 (stato 1° giugno 2023)
+del 30 giugno 2021 (stato 18 ottobre 2024)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 viste
 – la legge federale sulla protezione dell'ambiente del 7 ottobre 1983 (LPAmb);
