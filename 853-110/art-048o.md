@@ -1,3 +1,2 @@
-# Art. 48o Tasse
-1Per l'istruzione delle pratiche amministrative, come pure per i compiti speciali di visita, di controllo, di ispezione e di consulenza sono percepite tasse e spese fino a un massimo di 2'000 franchi.
-2 Per le decisioni d'autorizzazione, di rifiuto o di revoca ad esercitare a carico dell'AOMS, sono prelevate delle tasse da 300 a 2'000 franchi.
+# Art. 48o
+L'Ufficio di sanità vigila sui fornitori di prestazioni al beneficio dell'autorizzazione ad esercitare a carico dell'AOMS, al fine di garantire l'osservanza delle condizioni formali e pronuncia se del caso le necessarie misure.
