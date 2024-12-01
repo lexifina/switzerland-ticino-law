@@ -37,6 +37,7 @@
 ## Capitolo I In generale
 ## Capitolo II Fornitori di prestazioni con sede nel Cantone
 ## Capitolo III Ricoveri fuori Cantone
+## TITOLO VTER152 Autorizzazione dei fornitori di prestazioni (art. 36 LAMal)
 ## TITOLO VI Convenzioni
 ## Capitolo I Convenzioni tariffali
 ## Capitolo II Ricusa
