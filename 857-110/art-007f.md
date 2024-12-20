@@ -6,6 +6,5 @@ a) 2'000 franchi per persone di età compresa tra i 18 e i 24 anni;
 b) 2'500 franchi per persone di età compresa tra i 25 e i 29 anni;
 c) 3'500 franchi per persone di età superiore ai 30 anni.
 4 Per i richiedenti senza un fabbisogno finanziario l'importo determinante ammonta a:
-a) 1'400 franchi per persone di età compresa tra i 18 e i 24 anni;
-b) 1'700 franchi per persone di età compresa tra i 25 e i 29 anni;
-c) 2'400 franchi per persone di età superiore ai 30 anni.
+a) 350 franchi per persone di età compresa tra i 18 e i 24 anni;
+b) 1'200 franchi per persone di età compresa tra i 25 e i 29 anni.
