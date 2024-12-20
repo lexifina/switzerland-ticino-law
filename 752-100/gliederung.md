@@ -10,7 +10,7 @@
 ## CAPITOLO I Generalità
 ## CAPITOLO II Linee d’importanza cantonale
 ## CAPITOLO III Linee d’importanza locale
-## CAPITOLO IV Partecipazione finanziaria dei privati
-## CAPITOLO V Traffico regionale
+## CAPITOLO IV
+## CAPITOLO V
 ## TITOLO V Servizi integrativi
 ## TITOLO VI Disposizioni finali

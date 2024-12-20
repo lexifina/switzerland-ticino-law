@@ -1,6 +1,6 @@
 # Legge
 sui trasporti pubblici
-(LTPub)1 (del 6 dicembre 1994)
+(LTPub)1 del 6 dicembre 1994 (stato 20 dicembre 2024)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 richiamate:
 - la legge federale sulle ferrovie del 20 dicembre 1957;
