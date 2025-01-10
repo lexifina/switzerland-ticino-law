@@ -1,6 +1,6 @@
 # Regolamento
 sull’agricoltura
-(RAgr)1 del 23 dicembre 2003 (stato 3 maggio 2024)
+(RAgr)1 del 23 dicembre 2003 (stato 10 gennaio 2025)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 vista la legge sull'agricoltura del 3 dicembre 2002 (LAgr),
 de c r e t a :
