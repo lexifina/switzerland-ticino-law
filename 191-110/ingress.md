@@ -1,6 +1,6 @@
 # Regolamento
 della legge sulla Chiesa cattolica
-(del 7 dicembre 2004)
+(RCCatt)1 del 7 dicembre 2004 (stato 1° aprile 2025)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 richiamato l'art. 23 della legge sulla Chiesa cattolica del 16 dicembre 2002,
 de c r e t a :
