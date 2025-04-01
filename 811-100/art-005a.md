@@ -1,5 +1,5 @@
 # Art. 5a Assistenza sanitaria negli ospedali di zona
-1Gli ospedali di zona, accessibili 24 ore su 24, dispongono di
+1Gli ospedali di zona, accessibili 24 ore su 24, dispongono di:
 a) un reparto di medicina interna generale e di un'offerta di cure stazionarie in ambito riabilitativo o di cure post e sub-acute;
 b) un servizio di Primo Soccorso aperto 7 giorni su 7 gestito in maniera complementare ai servizi della rete sanitaria del territorio;
 c) un'offerta di consultazioni specialistiche a cadenza settimanale a complemento dell'offerta ambulatoriale esistente nella regione.
