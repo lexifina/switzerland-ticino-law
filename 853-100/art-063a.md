@@ -3,7 +3,7 @@
 a) ospedali somatici acuti, psichiatrici e di riabilitazione (art. 39 cpv. 1 LAMal);
 b) le case di cura; e
 c) le case per partorienti (art. 39 cpv. 3 LAMal);
-d) i reparti Acuti a minore intensità (Rami), di regola situati all'interno degli ospedali somatici acuti di cui alla lett. a).
+d) ... 1bisLe case di cura (art. 39 cpv. 3 LAMal) possono gestire i reparti acuti di minore intensità (di seguito Case di cura - RAMI) di regola situati in prossimità degli ospedali somatico acuti di cui al cpv. 1 lett. a).
 2 L'offerta è garantita dagli istituti che figurano sull'elenco e da quelli che non figurano sull'elenco e che operano in regime convenzionale.
 3 La pianificazione tiene conto della libertà di scelta dell'assicurato tra gli ospedali che figurano nell'elenco del suo Cantone di domicilio o in quello di ubicazione dell'ospedale, come pure delle collaborazioni intercantonali e delle convenzioni sottoscritte con altri Cantoni e istituti con sede fuori Cantone.
 4 Allo scopo di assicurare l'offerta necessaria a coprire il fabbisogno di cure il Consiglio di Stato può sottoscrivere convenzioni con altri Cantoni e istituti extracantonali.
