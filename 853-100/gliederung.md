@@ -26,18 +26,18 @@
 ## Sezione III Importo effettivo
 ## Sezione IV Elementi specifici di calcolo e procedure di versamento
 ## Sezione V Norme particolari
-## Sezione VI Restituzione da parte degli assicuratori malattie negli anni 2015, 2016 e 2017
+## Sezione VI Restituzione da parte degli assicuratori malattie negli anni 2015, 2016 e 2017 per premi
 ## Capitolo IV Disposizioni comuni
 ## Sezione I Norme di procedura
 ## Sezione II A. Perenzione e norme particolari PC AVS/AI
 ## Sezione III Restituzione e condono
 ## TITOLO IVA Ripartizione degli oneri tra Cantone e Comuni
 ## TITOLO V Pianificazione
-## TITOLO Vbis Finanziamento delle prestazioni di cura erogate negli ospedali (Art. 39 cpv. 1 LAMal)
+## TITOLO Vbis Finanziamento delle prestazioni di cura erogate negli ospedali (art. 39 cpv. 1 LAMal) e nelle
 ## Capitolo I In generale
 ## Capitolo II Fornitori di prestazioni con sede nel Cantone
 ## Capitolo III Ricoveri fuori Cantone
-## TITOLO VTER152 Autorizzazione dei fornitori di prestazioni (art. 36 LAMal)
+## TITOLO VTER151 Autorizzazione dei fornitori di prestazioni (art. 36 LAMal)
 ## TITOLO VI Convenzioni
 ## Capitolo I Convenzioni tariffali
 ## Capitolo II Ricusa

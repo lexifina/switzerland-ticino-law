@@ -3,4 +3,3 @@
 2 Ogni tariffa riferita alle prestazioni è identica per ogni assicurato LAMal indipendentemente dalla copertura assicurativa.
 3 Essa è negoziata annualmente dai partner tariffali.
 4 Il Cantone assiste alle negoziazioni tariffali.
-B. Approvazione e fissazione della tariffa

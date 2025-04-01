@@ -4,7 +4,7 @@ a) il rispetto di criteri strutturali e gestionali, definiti in un apposito rego
 b) la qualità, l'appropriatezza e l'economicità delle prestazioni erogate;
 c) l'accessibilità alle cure entro un termine utile;
 d) la disponibilità e la capacità dell'istituto ad adempiere al mandato di prestazioni;
-e) la disponibilità di strumenti e procedure che garantiscano la sicurezza dei pazienti trattati negli istituti che figurano sull'elenco ai sensi dell'art. 39 cpv. 1 lett. e e cpv. 3 LAMal.
+e) la disponibilità di strumenti e procedure che garantiscano la sicurezza dei pazienti trattati negli istituti che figurano sull'elenco ai sensi dell'art. 39 cpv. 1 lett. e) e cpv. 3 LAMal.
 2 Nel valutare l'economicità e la qualità, il Cantone considera in particolare:
 a) l'efficienza della fornitura di prestazioni;
 b) la prova della qualità necessaria;

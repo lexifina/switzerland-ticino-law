@@ -1,3 +1,2 @@
 # Art. 30a
 …
-A. Reddito disponibile di riferimento
