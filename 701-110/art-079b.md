@@ -16,4 +16,4 @@ a) la situazione attuale, le caratteristiche del bacino imbrifero, l'idrologia, 
 b) la pianificazione dei provvedimenti (interventi tecnici e strutturali, manutenzione, spazio riservato alle acque);
 c) la situazione dei pericoli dopo l'intervento;
 d) il preventivo e il piano di finanziamento.
-grandi impianti fotovoltaici
+Applicazione delle disposizioni federali in materia di approvvigionamento energetico
