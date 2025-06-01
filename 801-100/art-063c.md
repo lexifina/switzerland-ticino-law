@@ -1,3 +1,3 @@
 # Art. 63c bb) i terapisti in possesso di un diploma riconosciuto
 1Il terapista complementare in possesso di un diploma riconosciuto è tenuto a rispettare i limiti delle conoscenze acquisite mediante la formazione e comprovate dal diploma o certificato.
-2 Il Consiglio di Stato può stabilire delle deroghe all'art. 63b cpv. 2.
+2 Il Consiglio di Stato può stabilire delle deroghe all'articolo 63b capoverso 2.

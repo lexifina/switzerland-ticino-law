@@ -1,3 +1,3 @@
 # Art. 99a Rimedi di diritto
 1Contro le decisioni del Dipartimento, del Medico cantonale, degli Ordini professionali di diritto pubblico o di altre autorità amministrative è dato ricorso al Consiglio di Stato, le cui decisioni sono impugnabili davanti al Tribunale cantonale amministrativo, a meno che la legge preveda il ricorso diretto a questa autorità giudiziaria.
-2 Il ricorso contro le decisioni di cui all'art. 37 cpv. 1, contro le decisioni di revoca a titolo cautelativo di autorizzazioni all'esercizio e contro le decisioni di chiusura a titolo cautelativo di strutture e servizi sanitari non ha effetto sospensivo.
+2 Il ricorso contro le decisioni di cui all'articolo 37 capoverso 1, contro le decisioni di revoca a titolo cautelativo di autorizzazioni all'esercizio e contro le decisioni di chiusura a titolo cautelativo di strutture e servizi sanitari non ha effetto sospensivo.
