@@ -1,9 +1,15 @@
-## Capitolo I Norme generali / Autorità competenti
-## Capitolo II Provvedimenti
-## Capitolo III Obblighi, controlli
-## Capitolo IV Autorizzazioni
-## Capitolo V Sussidiamento
-## Capitolo VI Assunzione delle spese
-## Capitolo VII Disposizioni penali e di polizia
-## Capitolo VIII Procedura
-## Capitolo IX Norme transitorie e finali
+## Capitolo primo
+## Sezione 1 Disposizioni generali
+## Sezione 2 Autorità e competenze
+## Capitolo secondo Provvedimenti
+## Sezione 1 Provvedimenti generali
+## Sezione 2 Provvedimenti individuali
+## Capitolo terzo
+## Capitolo quarto Autorizzazioni
+## Capitolo quinto Sussidiamento
+## Sezione 1 In generale
+## Sezione 2 Entità dei sussidi
+## Capitolo sesto
+## Capitolo settimo Infrazioni alla LStup
+## Capitolo ottavo
+## Capitolo nono Norme abrogative

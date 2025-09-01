@@ -1,9 +1,7 @@
 # Legge
-d’applicazione della legge federale sugli stupefacenti
-(del 19 giugno 1978)
+cantonale sugli stupefacenti
+(LCStup)1 del 19 giugno 1978 (stato 1° settembre 2025)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
-viste:
-- la legge federale 3 ottobre 1951 sugli stupefacenti (qui abbreviata LST) e sue modificazioni sino al 20 marzo 1975;
-- l'ordinanza federale 4 marzo 1952 d'esecuzione della legge federale sugli stupefacenti (qui abbreviata OST); visto il messaggio 6 aprile 1977 n. 2232 del Consiglio di Stato,
+vista la legge federale sugli stupefacenti e sulle sostanze psicotrope del 3 ottobre 1951 (LStup); visto il messaggio del Consiglio di Stato n. 2232 del 6 aprile 1977,
 de c r e t a :
-A. Scopo LST art. 34
+Disposizioni generali, autorità e competenze
