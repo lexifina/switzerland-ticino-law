@@ -1,6 +1,5 @@
 # Regolamento
-di applicazione del decreto legislativo concernente il rinnovo di abitazioni
-(del 31 gennaio 1979)
+concernente il rinnovo di abitazioni1 del 31 gennaio 1979 (stato 5 settembre 2025)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
-visto il decreto legislativo concernente il rinnovo di abitazioni del 12 settembre 1978; su proposta del Dipartimento della sanità e della socialità ;
-d e c re t a :
+vista la legge concernente il rinnovo di abitazioni del 12 settembre 1978,
+de c r e t a :
