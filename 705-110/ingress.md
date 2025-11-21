@@ -1,7 +1,7 @@
 # Regolamento
 di applicazione della legge edilizia
 (RLE)
-del 9 dicembre 1992 (stato 22 marzo 2024)
+del 9 dicembre 1992 (stato 21 novembre 2025)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 vista la legge edilizia cantonale del 13 marzo 1991,
 de c r e t a :
