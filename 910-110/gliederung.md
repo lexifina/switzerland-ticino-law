@@ -1,8 +1,7 @@
 ## TITOLO I Competenza generale
 ## TITOLO II Miglioramenti strutturali
 ## TITOLO III Applicazione
-## TITOLO IV Promozione dello smercio
-## Sezione. Misure di solidarietà
+## TITOLO IV Rappresentatività delle organizzazioni
 ## TITOLO V Avvicendamento generazionale
 ## TITOLO VI Conversione delle aziende all’agricoltura biologica
 ## TITOLO VII Declività
@@ -13,7 +12,7 @@
 ## TITOLO IX
 ## TITOLO X Servizio fitosanitario
 ## TITOLO XI Obbligo di tollerare la gestione dei terreni incolti
-## TITOLO XII
+## TITOLO XII Contributo per esposizioni ovine e caprine
 ## TITOLO XIII Condotte veterinarie
 ## TITOLO XIV Assicurazione del bestiame
 ## TITOLO XV Organizzazioni agricole
