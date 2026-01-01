@@ -1,8 +1,8 @@
 # Regolamento
-della legge sull’esercizio della professione di impresario costruttore
-e di operatore specialista nel settore principale della costruzione
+della legge sull’esercizio della professione di impresario costruttore e di
+operatore specialista nel settore principale della costruzione
 (RLEPICOSC)
-(del 3 dicembre 2014)
+del 3 dicembre 2014 (stato 1° gennaio 2026)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
-vista la legge sull'esercizio della professione di impresario costruttore e di operatore specialista nel settore principale della costruzione del 1. dicembre 1997 (LEPICOSC)
+vista la legge sull'esercizio della professione di impresario costruttore e di operatore specialista nel settore principale della costruzione del 1° dicembre 1997 (LEPICOSC),
 de c r e t a :
