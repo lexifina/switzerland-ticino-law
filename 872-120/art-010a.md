@@ -1,0 +1,3 @@
+# Art. 10a VI. Modifiche dei requisiti
+1I SACD, CDT, CNT sono tenuti a comunicare all'Ufficio di sanità eventuali modifiche relative alla direzione amministrativa o sanitaria entro 7 giorni dalla presa di conoscenza delle stesse.
+2 In caso di assenza prolungata (da 30 fino a un massimo di 90 giorni) del direttore amministrativo o del direttore sanitario è necessario comunicare all'Ufficio di sanità il nominativo del sostituto ad interim; il sostituto del direttore sanitario deve essere un infermiere già attivo presso il servizio o il centro ed essere iscritto al Registro delle professioni sanitarie NAREG da almeno 2 anni.
