@@ -1,0 +1,2 @@
+# Art. 89a Disposizione transitoria sull’elezione di un Procuratore pubblico straordinario
+Presso il Ministero pubblico, per il periodo a partire dall'assunzione dell'ufficio sino al 31 dicembre 2028, è attribuito un Procuratore pubblico straordinario, nominato dal Gran Consiglio; il suo onorario è quello previsto per i Procuratori pubblici ai sensi della legge sugli onorari dei magistrati del 14 maggio 1973.
