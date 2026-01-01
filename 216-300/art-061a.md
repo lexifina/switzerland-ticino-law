@@ -1,2 +1,2 @@
 # Art. 61a Emolumenti per l’autenticazione
-Gli emolumenti per l'autenticazione di estratti sono stabiliti dall'OTEMU.
+Per l'ammontare degli emolumenti per l'autenticazione di estratti è applicabile la tariffa stabilita dal Consiglio di Stato.
