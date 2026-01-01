@@ -1,12 +1,6 @@
 # Legge
 sul sostegno alle attività delle famiglie e di protezione dei minorenni
-(Legge per le famiglie)
-del 15 settembre 2003 (stato 24 gennaio 2025)
+(legge per le famiglie, LFam)1 del 15 settembre 2003 (stato 1° gennaio 2026)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
-- visto il messaggio 25 giugno 2002 n. 5280 del Consiglio di Stato;
-- visto il rapporto 3 settembre 2003 n. 5280 R della Commissione della legislazione,
-- richiamati:
-- l'art. 316 del Codice civile svizzero (CC);
-- l'ordinanza federale sull'accoglimento di minori a scopo di affiliazione (OAMin);
-- ritenuto che i termini utilizzati in tutta la legge sono da intendere sia al maschile che al femminile,
+visto l'articolo 316 del Codice civile (CC); vista l'ordinanza sull'accoglimento di minori a scopo di affiliazione del 19 ottobre 1977 (OAMin),
 de c r e t a :
