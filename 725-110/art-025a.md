@@ -1,4 +1,4 @@
-# Art. 25a Autorizzazione per l’esecuzione di lavori sulla strada cantonale (art. 45 LStr)
+# Art. 25a
 1È istituita una piattaforma per la gestione informatizzata delle richieste di autorizzazione per l'esecuzione di lavori sulla strada cantonale (RICAS) di cui all'articolo 45 della legge sulle strade del 23 marzo 1983. RICAS serve alla gestione delle richieste, alla fatturazione, alla gestione del cantiere e alla notifica della posa di condotte su fondi del demanio cantonale e contiene in particolare i dati anagrafici, i recapiti del richiedente e dei soggetti interessati dal cantiere.
 2 L'Area dell'esercizio e della manutenzione è l'organo responsabile.
 3 I dati personali contenuti in RICAS sono accessibili mediante procedura di richiamo, in funzione delle necessità per l'adempimento dei loro rispettivi compiti, ai seguenti organi:
