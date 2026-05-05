@@ -2,7 +2,7 @@
 concernente l’uniformazione dei gradi e delle condizioni di stipendio dei
 corpi di polizia cantonale e comunali
 (RUGraS)
-del 1° giugno 2017 (stato 19 gennaio 2024)
+del 1° giugno 2017 (stato 5 maggio 2026)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 richiamati:
 – l'art. 9 della legge sulla collaborazione fra la polizia cantonale e le polizie comunali del 16 marzo 2011 (LCPol);
