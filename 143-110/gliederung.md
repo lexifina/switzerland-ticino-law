@@ -2,10 +2,9 @@
 ## TITOLO II Organi consultivi
 ## TITOLO III Informazioni
 ## TITOLO IV
-## Capitolo primo Procedure
-## Capitolo secondo Frontalieri
+## Capitolo primo
 ## Capitolo terzo Norme comuni
-## TITOLO IVbis25 Integrazione
+## TITOLO IVbis43 Integrazione
 ## TITOLO V Notifiche
 ## TITOLO VI
 ## Capitolo primo
