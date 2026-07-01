@@ -1,4 +1,4 @@
-# Art. 52a Prestazioni del Dipartimento ai Comuni
-1Le prestazioni fornite dal Dipartimento o dai suoi servizi a favore dei Comuni conformemente all'art. 3 cpv. 2 della legge sono remunerate in funzione della classe di stipendio dei funzionari coinvolti e secondo il seguente tariffario: Classe stipendio Costo/ora 10-14 fr. 42.-- 15-19 fr. 52.-- 20-24 fr. 66.-- 25-29 fr. 81.-- 30-34 fr. 100.-- 35-39 fr. 122.--
-2 I Comuni richiedenti sono inoltre tenuti a rifondere al Dipartimento le eventuali spese per perizie, trasferte ed altri costi.
+# Art. 52a
+1Le prestazioni fornite dal Dipartimento o dai suoi servizi a favore dei Comuni conformemente all'art. 3 cpv. 2 della legge sono remunerate in funzione della classe di stipendio dei funzionari coinvolti e secondo il seguente tariffario: Classe stipendio Tariffa oraria (franchi) 1 - 3 fr. 60.-- 4 - 5 fr. 75.-- 6 - 7 fr. 85.-- 8 - 9 fr. 100.-- 10 - 11 fr. 115.-- 12 - 13 fr. 130.-- 14 - 15 fr. 145.-- 16 - 17 fr. 165.-- 18 - 20 fr. 185.-- 1bisPer le prestazioni fornite dal Dipartimento o dai suoi servizi nell'ambito delle procedure federali di approvazione dei piani conformemente all'art. 19a della legge, l'emolumento è fissato in 105 franchi/ora.
+2 I Comuni e gli enti richiedenti ai sensi dei precedenti capoversi sono inoltre tenuti a rifondere al Dipartimento le eventuali spese per perizie, trasferte ed altri costi.
 3 Le tasse e le spese di cui al presente articolo sono addebitate direttamente sul conto Stato- Comune.
