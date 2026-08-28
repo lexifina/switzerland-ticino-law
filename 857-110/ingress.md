@@ -1,6 +1,6 @@
 # Regolamento
 della legge sul rilancio dell’occupazione e sul sostegno ai disoccupati
-(RL-rilocc)1 del 4 febbraio 1998 (stato 20 dicembre 2024)
+(RL-rilocc)1 del 4 febbraio 1998 (stato 28 agosto 2026)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 vista la legge sul rilancio dell'occupazione e sul sostegno ai disoccupati del 13 ottobre 1997 (L- rilocc); richiamate:
 - la legge sull'assicurazione contro la disoccupazione del 25 giugno 1982 (LADI);
