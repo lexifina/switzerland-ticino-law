@@ -1,6 +1,6 @@
 # Legge
 sulla scuola dell’infanzia e sulla scuola elementare
-(LSISE)1 del 7 febbraio 1996 (stato 1° agosto 2026)
+(LSISE)1 del 7 febbraio 1996 (stato 1° settembre 2026)
 IL GRAN CONSIGLIO DELLA REPUBBLICA E CANTONE TICINO
 visti il messaggio 25 ottobre 1994 n. 4321 del Consiglio di Stato e il rapporto 8 gennaio 1996 n. 4321 R della Commissione speciale scolastica,
 de c r e t a :
