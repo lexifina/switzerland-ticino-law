@@ -1,7 +1,7 @@
 # Regolamento
 di applicazione dell’ordinanza sul traffico di rifiuti
 (ROTRif)
-del 10 luglio 2007 (stato 12 dicembre 2025)
+del 10 luglio 2007 (stato 4 settembre 2026)
 IL CONSIGLIO DI STATO DELLA REPUBBLICA E CANTONE TICINO
 richiamati:
 - la legge federale sulla protezione dell'ambiente del 7 ottobre 1983 (LPAmb);
