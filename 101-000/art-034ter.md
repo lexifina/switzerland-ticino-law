@@ -5,3 +5,4 @@
 4 Eventuali disavanzi del conto di gestione corrente a consuntivo sono compensati con avanzi precedentemente realizzati; se ciò non è possibile devono essere recuperati nei termini indicati dalla legge.
 5 Il Cantone adotta tempestivamente le misure necessarie a garantire il rispetto del principio dell'equilibrio finanziario.
 6 Per decidere l'aumento del coefficiente d'imposta cantonale è necessaria la maggioranza qualificata di almeno 2/3 dei votanti in Gran Consiglio.
+art. 34quater La revisione generale ricorrente dei valori di stima immobiliare non può comportare nel complesso un aumento automatico del gettito dei tributi pubblici, né una riduzione automatica delle prestazioni, degli aiuti e dei sussidi erogati nell'ambito del perseguimento degli obiettivi sociali.
