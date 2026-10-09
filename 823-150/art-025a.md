@@ -1,0 +1,2 @@
+# Art. 25a
+Le imprese già autorizzate al momento dell'entrata in vigore della modifica del 7 ottobre 2026 devono adeguarsi al requisito di cui all'art. 17 cpv. 2 entro tre anni. Fino a tale data le imprese possono continuare a eseguire la rimozione su delega scritta del medico anche tramite personale non ancora in possesso della formazione di cui all'art. 17 cpv. 2 lett. b a condizione che siano rispettate le istruzioni tecniche emanate dal Medico cantonale.
