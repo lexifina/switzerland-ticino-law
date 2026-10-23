@@ -6,7 +6,7 @@
 ## Capitolo terzo Premio medio di riferimento
 ## Capitolo quarto Reddito di riferimento
 ## Capitolo quinto Ripartizione della riduzione dei premi
-## Capitolo sesto Limite di fabbisogno minimo
+## Capitolo sesto Limite di fabbisogno per il calcolo del reddito disponibile massimo
 ## Capitolo settimo Procedure di comunicazione e pagamento
 ## Capitolo ottavo Istanza di revisione
 ## Capitolo nono Diritto suppletorio
