@@ -1,0 +1,17 @@
+# Legge concernente il miglioramento delle condizioni di abitazioni nelle regioni di montagna
+
+RL 863.100 · 2 versions, from 2009-01-27 (latest in force: 2014-03-01) · <https://www.lexfind.ch/fe/it/tol/19990/it>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Art. 6a | [art-006a.md](art-006a.md) | 0 |  |
+| Art. 6b | [art-006b.md](art-006b.md) | 1 | 2014-03-01 |
+| Art. 7 | [art-007.md](art-007.md) | 0 |  |
+| Art. 8 | [art-008.md](art-008.md) | 1 | 2014-03-01 |
+| Titolo e preambolo | [ingress.md](ingress.md) | 1 | 2014-03-01 |

@@ -1,0 +1,11 @@
+{
+  "path": "ch-ti",
+  "code": "CH-TI",
+  "name": "Ticino",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-ticino-law",
+  "build": "built: 439 acts, 1656 versions",
+  "language": "it",
+  "sources": 1
+}

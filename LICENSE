@@ -1,0 +1,12 @@
+The law texts in this repository are official texts of the canton of Ticino (Repubblica e Cantone Ticino).
+Taken from the canton's official PDF editions as kept by LexFind (https://www.lexfind.ch/), the portal run for the Swiss State Chancellors' Conference.
+
+Swiss law does not protect them by copyright. Federal Act on Copyright and Related Rights (URG, SR 231.1),
+Art. 5 para. 1: "Keinen urheberrechtlichen Schutz geniessen: a. Gesetze, Verordnungen, völkerrechtliche Verträge
+und andere amtliche Erlasse; [...]" (French text: "Ne sont pas protégés par le droit d'auteur: a. les lois,
+ordonnances, accords internationaux et autres actes officiels; [...]")
+
+This repository is not an official publication; the binding text is the one the canton publishes as binding.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
